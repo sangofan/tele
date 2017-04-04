@@ -56,10 +56,8 @@ Star Movies HD,http://kb1.ottclub.info:443/kitty/c722.stream/playlist.m3u8?a=58d
 衛視中文,http://kb1.ottclub.info:443/fmts/c737.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
 FOX HD,http://kb1.ottclub.info:443/water/c731.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
 樂視粵語頻道,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_yylbpd_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-龍華電影,http://61.218.59.181/live/ch108/playlist.m3u8
 亞洲影院,http://61.55.145.199/live/hls/1083.m3u8
 欧美影院,http://61.55.145.199/live/hls/1082.m3u8
-香港影剧HD,http://218.244.147.118:6389/wtvlive/migu2/617432318_4
 環球影劇,http://kb1.ottclub.info:443/kitty/c703.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
 東森戲劇,http://kb1.ottclub.info:443/fmts/c661.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
 八大戲劇,http://kb1.ottclub.info:443/fmts/c662.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
@@ -108,16 +106,8 @@ ELTA體育HD,http://kb1.ottclub.info:443/kitty/c717.stream/playlist.m3u8?a=58d68
 HKCSports1,http://61.10.2.137/live_conmobile/_definst_/4-2a021def-1479809840-1479810140-6a3b7e91b7abb4071fdb786392aab011-8d41304380e0a66_766-03/ch164_h.live/chunklist_w2024052072.m3u8?uid=8169adc297a66a924239d20609ba947f
 标清翡翠台,http://wshls.acgvideo.com/live/live_752869_9917726/playlist.m3u8
 TVB星河http://222.37.159.225:13164/playurl.m3u8?playtype=live&protocol=ios&accesstoken=R58836320U30606625K7735C7CBM301BD82W3537471&programid=4200000107&playtoken=ABCDEFGH&ts=50&verifycode=2000000610
-鳳凰衛視HD,http://61.216.91.103/live/ch20/playlist.m3u8
 凤凰中文,http://zv.3gv.ifeng.com/live/zhongwen800k.m3u8
 凤凰资讯,http://zv.3gv.ifeng.com/live/zixun800k.m3u8
-高清電影3,http://60.174.241.114/wshdl.load.cdn.zhanqi.tv/zqlive/21333_CvnhE.flv?
-高清影視HD,http://222.37.159.225:13164/playurl.m3u8?playtype=live&protocol=ios&accesstoken=R58836320U30606625K7735C7CBM301BD82W3537471&programid=4200000146&playtoken=ABCDEFGH&ts=50&verifycode=2000000610,
-纬来电影,http://61.216.131.133/live/ch31/playlist.m3u8
-纬来日本,http://61.216.79.193/live/ch08/playlist.m3u8
-纬来综合,http://61.216.79.193/live/ch09/playlist.m3u8
-香港衛視,http://fms.cntv.lxdns.com/live/flv/channel84.flv
-天映頻道,http://222.37.159.225:13164/playurl.m3u8?playtype=live&protocol=ios&accesstoken=R58836320U30606625K7735C7CBM301BD82W3537471&programid=4200000105&playtoken=ABCDEFGH&ts=50&verifycode=2000000610
 翡翠台,http://wshls.acgvideo.com/live/live_752869_9917726/playlist.m3u8
 翡翠台亚州版,http://acm.gg/jade.m3u8
 翡翠台歐州版,http://acm.gg/jadea.m3u8
