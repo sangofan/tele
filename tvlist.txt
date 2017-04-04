@@ -15,11 +15,6 @@ EVE生活,http://kb1.ottclub.info:443/water/c728.stream/playlist.m3u8?a=58d68cc2
 TLC旅遊生活,http://kb1.ottclub.info:443/fmts/c738.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
 動物星球,http://kb1.ottclub.info:443/fmts/c739.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
 ANIMAX HD,http://kb1.ottclub.info:443/kitty/c708.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
-樂視綜藝1,http://live.gslb.letv.com/gslb?stream_id=lb_ent_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-樂視動物,http://live.gslb.letv.com/gslb?stream_id=lb_dwsj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-樂視旅遊,http://live.gslb.letv.com/gslb?stream_id=lb_lvyou_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-樂視美食,http://live.gslb.letv.com/gslb?stream_id=lb_meishi_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-樂視狂野自然,http://live.gslb.letv.com/gslb?stream_id=lb_kyzr_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 中視HD,http://kb1.ottclub.info:443/fmts/c733.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyLSQ87ceA
 台視HD,http://kb1.ottclub.info:443/fmts/c732.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyLSQ87ceA
 公視HD,http://kb1.ottclub.info:443/fmts/c735.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyLSQ87ceA
@@ -61,16 +56,6 @@ Star Movies HD,http://kb1.ottclub.info:443/kitty/c722.stream/playlist.m3u8?a=58d
 衛視中文,http://kb1.ottclub.info:443/fmts/c737.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
 FOX HD,http://kb1.ottclub.info:443/water/c731.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
 樂視粵語頻道,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_yylbpd_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-樂視港產電影,http://live.gslb.letv.com/gslb?stream_id=lb_lsgcp_3000&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-樂視港鬼怪片,http://live.gslb.letv.com/gslb?stream_id=lb_hk_hkghost_3000&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-樂視港動作片,http://live.gslb.letv.com/gslb?stream_id=lb_hk_Hkactionmovies_3000&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-樂視港喜劇片,http://live.gslb.letv.com/gslb?stream_id=lb_hk_Hkcomedies_3000&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-樂視港古裝片,http://live.gslb.letv.com/gslb?stream_id=lb_hk_HKperiodMovies_3000&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-樂視粵語電影,http://live.gslb.letv.com/gslb?stream_id=lb_yylbpd_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-樂視香港電影,http://live.gslb.letv.com/gslb?stream_id=lb_hkmovie_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-樂視同步院線,http://live.gslb.letv.com/gslb?stream_id=xizang&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-樂視荷里活,http://live.gslb.letv.com/gslb?stream_id=lb_hlw_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-樂視喜劇,http://live.gslb.letv.com/gslb?stream_id=lb_comedy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 龍華電影,http://61.218.59.181/live/ch108/playlist.m3u8
 亞洲影院,http://61.55.145.199/live/hls/1083.m3u8
 欧美影院,http://61.55.145.199/live/hls/1082.m3u8
@@ -137,12 +122,6 @@ TVB星河http://222.37.159.225:13164/playurl.m3u8?playtype=live&protocol=ios&acc
 翡翠台亚州版,http://acm.gg/jade.m3u8
 翡翠台歐州版,http://acm.gg/jadea.m3u8
 翡翠台日間電影http://wshls.acgvideo.com/live/live_752869_9917726/playlist.m3u8
-樂視港四大天王http://live.gslb.letv.com/gslb?stream_id=lb_hk_fourkings_3000&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-樂視華語電影,http://live.gslb.letv.com/gslb?stream_id=lb_hydy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-樂視綜合,http://live.gslb.letv.com/gslb?stream_id=lb_zonghe_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 樂視演唱會,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_concert_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-樂視動作,http://live.gslb.letv.com/gslb?stream_id=lb_dzdy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-樂視粵語音樂,http://live.gslb.letv.com/gslb?stream_id=lb_yyyy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-樂視美克家居,http://live.gslb.letv.com/gslb?stream_id=lb_mkmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 廣東珠江,http://www.migutv.ga/iptv/zhujiang.m3u8
 珠江电影,http://www.migutv.ga/iptv/zjdy.m3u8
