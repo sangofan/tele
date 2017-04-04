@@ -1,0 +1,89 @@
+501 CNN,http://kb1.ottclub.info:443/fmts/c672.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyLSQ87ceA
+502 BBC,http://kb1.ottclub.info:443/kitty/c677.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyLSQ87ceA
+503 BBC lifestyle,http://kb1.ottclub.info:443/kitty/c719.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyLSQ87ceA
+504 公視HD,http://kb1.ottclub.info:443/fmts/c735.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyLSQ87ceA
+505 MTV HD,http://kb1.ottclub.info:443/kitty/c729.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyLSQ87ceA
+506 民視HD,http://kb1.ottclub.info:443/fmts/c671.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyLSQ87ceA
+507 好來塢電影,http://kb1.ottclub.info:443/fmts/c693.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyLSQ87ceA
+508 台視HD,http://kb1.ottclub.info:443/fmts/c732.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyLSQ87ceA
+509 國興衛視,http://kb1.ottclub.info:443/kitty/c701.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyLSQ87ceA
+510 中視HD,http://kb1.ottclub.info:443/fmts/c733.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyLSQ87ceA
+511 大愛HD,http://kb1.ottclub.info:443/water/c559.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyLSQ87ceA
+512 華視HD,http://kb1.ottclub.info:443/fmts/c734.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyLSQ87ceA
+513 三立台灣HD,http://kb1.ottclub.info:443/fmts/c747.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+514 探索動力,http://kb1.ottclub.info:443/kitty/c700.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+515 探索科學,http://kb1.ottclub.info:443/water/c715.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+516 國家地理野生,http://kb1.ottclub.info:443/kitty/c707.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+518 國家地理頻道CH18,http://kb1.ottclub.info:443/fmts/c736.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+519 EVE生活,http://kb1.ottclub.info:443/water/c728.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+520 TLC旅遊生活,http://kb1.ottclub.info:443/fmts/c738.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+521 動物星球,http://kb1.ottclub.info:443/fmts/c739.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+522 CN卡通頻道,http://kb1.ottclub.info:443/fmts/c740.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+523 迪士尼頻道,http://kb1.ottclub.info:443/fmts/c741.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+524 MOMO親子,http://kb1.ottclub.info:443/fmts/c742.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+525 東森幼幼,http://kb1.ottclub.info:443/fmts/c743.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+526 緯來綜合,http://kb1.ottclub.info:443/fmts/c744.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+527 八大第一HD,http://kb1.ottclub.info:443/fmts/c745.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+528 八大綜合HD,http://kb1.ottclub.info:443/fmts/c746.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+529 三立台灣HD,http://kb1.ottclub.info:443/fmts/c747.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+530 三立都會HD,http://kb1.ottclub.info:443/fmts/c655.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+531 衛視中文,http://kb1.ottclub.info:443/fmts/c737.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+532 東森綜合HD,http://kb1.ottclub.info:443/fmts/c656.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+533 東森超視,http://kb1.ottclub.info:443/fmts/c657.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+534 韓國tvN,http://kb1.ottclub.info:443/water/c727.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+535 韓國娛樂KMTV HD,http://kb1.ottclub.info:443/kitty/c718.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+536 中天綜合HD,http://kb1.ottclub.info:443/fmts/c658.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+537 東風37,http://kb1.ottclub.info:443/kitty/c714.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+538 年代MUCH HD,http://kb1.ottclub.info:443/fmts/c659.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+539 中天娛樂,http://kb1.ottclub.info:443/fmts/c660.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+540 東森戲劇,http://kb1.ottclub.info:443/fmts/c661.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+541 八大戲劇,http://kb1.ottclub.info:443/fmts/c662.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+542 TVBS歡樂HD,http://kb1.ottclub.info:443/fmts/c663.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+543 緯來戲劇,http://kb1.ottclub.info:443/fmts/c664.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+544 MOMO親子,http://kb1.ottclub.info:443/fmts/c742.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+545 衛視合家歡,http://kb1.ottclub.info:443/kitty/c711.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+546 JET綜合,http://kb1.ottclub.info:443/fmts/c665.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+547 AXN,http://kb1.ottclub.info:443/fmts/c692.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+548 探索亞洲,http://kb1.ottclub.info:443/kitty/c716.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+549 壹新聞,http://kb1.ottclub.info:443/kitty/c558.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+550 年代新聞HD,http://kb1.ottclub.info:443/fmts/c666.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+551 東森新聞HD,http://kb1.ottclub.info:443/fmts/c667.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+552 中天新聞HD,http://kb1.ottclub.info:443/fmts/c668.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+553 民視新聞HD,http://kb1.ottclub.info:443/fmts/c669.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+554 三立新聞HD,http://kb1.ottclub.info:443/fmts/c670.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+555 TVBS新聞HD,http://kb1.ottclub.info:443/fmts/c684.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+556 TVBS HD,http://kb1.ottclub.info:443/fmts/c685.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+557 東森財經新聞HD,http://kb1.ottclub.info:443/fmts/c686.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+558 非凡新聞HD,http://kb1.ottclub.info:443/fmts/c687.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+559 HBO強檔,http://kb1.ottclub.info:443/water/c720.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+560 FOX家庭電影,http://kb1.ottclub.info:443/water/c702.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+561 衛視電影,http://kb1.ottclub.info:443/fmts/c688.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+562 東森電影,http://kb1.ottclub.info:443/fmts/c689.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+563 星衛HD電影,http://kb1.ottclub.info:443/water/c705.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+564 緯來電影,http://kb1.ottclub.info:443/fmts/c690.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+565 HBO HD,http://kb1.ottclub.info:443/kitty/c726.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+566 東森洋片,http://kb1.ottclub.info:443/fmts/c691.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+567 衛視西片,http://kb1.ottclub.info:443/fmts/c694.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+568 好來塢電影,http://kb1.ottclub.info:443/fmts/c693.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+569 HBO原創,http://kb1.ottclub.info:443/water/c725.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+570 CINEMAX,http://kb1.ottclub.info:443/fmts/c695.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+571 ANX,http://kb1.ottclub.info:443/water/c679.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+572 緯來體育HD,http://kb1.ottclub.info:443/fmts/c696.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+573 FOX體育HD,http://kb1.ottclub.info:443/fmts/c697.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+574 FOX體育2,http://kb1.ottclub.info:443/fmts/c698.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+575 緯來日本HD,http://kb1.ottclub.info:443/fmts/c699.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+576 ELTA體育HD,http://kb1.ottclub.info:443/kitty/c717.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+577 衛視中文HD,http://kb1.ottclub.info:443/water/c713.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+578 FOX HD,http://kb1.ottclub.info:443/water/c731.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+579 環球影劇,http://kb1.ottclub.info:443/kitty/c703.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+580 美亞電影,http://kb1.ottclub.info:443/kitty/c704.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+581 星衛娛樂台,http://kb1.ottclub.info:443/kitty/c723.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+582 博斯高球Ⅱ,http://kb1.ottclub.info:443/kitty/c709.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+583 ANIMAX HD,http://kb1.ottclub.info:443/kitty/c708.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+584 Star Movies HD,http://kb1.ottclub.info:443/kitty/c722.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+586 BabyTV HD,http://kb1.ottclub.info:443/kitty/c724.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+588 非凡商業,http://kb1.ottclub.info:443/water/c730.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+589 霹靂台灣台,http://kb1.ottclub.info:443/water/c673.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+591 NHK,http://kb1.ottclub.info:443/water/c560.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+597 動漫海賊王,http://kb3.ottclub.info:1935/aunh/c307.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+600 壹綜合,http://kb1.ottclub.info:443/water/c710.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
