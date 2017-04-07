@@ -4,6 +4,8 @@ HKC直播新聞台,http://61.10.2.137/liveJoemud_ts/_definst_/4-2a021def-1479808
 澳視澳門,http://live4.tdm.com.mo:80/ch1/_definst_//ch1.live/playlist.m3u8
 澳門Macau,http://live4.tdm.com.mo:80/ch3/_definst_//ch3.live/playlist.m3u8
 澳衛澳門,http://live4.tdm.com.mo:80/ch1/_definst_//ch1.live/playlist.m3u8
+澳门莲花,rtmp://3xhtut.live1.z1.pili.qiniucdn.com/lotustv/5562e9e4d409d24c9600075c
+翡翠電影,http://wshls.acgvideo.com/live/live_25417081_1579953/playlist.m3u8?wsSecret=f05036f7303f00684a3be56e58c12609&wsTime=5878ddae&delta_ts=&guid=a1d46615
 鳳凰香港台,http://zv.3gv.ifeng.com/live/hongkong800k.m3u8
 BBC lifestyle,http://kb1.ottclub.info:443/kitty/c719.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyLSQ87ceA
 探索動力,http://kb1.ottclub.info:443/kitty/c700.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
