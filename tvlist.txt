@@ -7,6 +7,7 @@ HKC直播新聞台,http://61.10.2.137/liveJoemud_ts/_definst_/4-2a021def-1479808
 澳门莲花,rtmp://3xhtut.live1.z1.pili.qiniucdn.com/lotustv/5562e9e4d409d24c9600075c
 翡翠電影,http://wshls.acgvideo.com/live/live_25417081_1579953/playlist.m3u8?wsSecret=f05036f7303f00684a3be56e58c12609&wsTime=5878ddae&delta_ts=&guid=a1d46615
 鳳凰香港台,http://zv.3gv.ifeng.com/live/hongkong800k.m3u8
+亞洲旅遊台HD,http://cdn.tw.hktv.me/live.m3u8?id=yzlyhd
 BBC lifestyle,http://kb1.ottclub.info:443/kitty/c719.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyLSQ87ceA
 探索動力,http://kb1.ottclub.info:443/kitty/c700.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
 探索科學,http://kb1.ottclub.info:443/water/c715.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
@@ -16,56 +17,16 @@ BBC lifestyle,http://kb1.ottclub.info:443/kitty/c719.stream/playlist.m3u8?a=58d6
 EVE生活,http://kb1.ottclub.info:443/water/c728.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
 TLC旅遊生活,http://kb1.ottclub.info:443/fmts/c738.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
 動物星球,http://kb1.ottclub.info:443/fmts/c739.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
-ANIMAX HD,http://kb1.ottclub.info:443/kitty/c708.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
-
-
-CI 罪案偵查頻道HD,http://cdn.tw.hktv.me/live.m3u8?id=cihd
-E EntertainmentHD,http://cdn.tw.hktv.me/live.m3u8?id=ehd
 History 歷史頻道HD,http://cdn.tw.hktv.me/live.m3u8?id=historyhd
 History 歷史頻道二台HD,http://cdn.tw.hktv.me/live.m3u8?id=h2hd
-
-東森亞洲衛視,http://cdn.tw.hktv.me/live.m3u8?id=dsyzws
-東森亞洲新聞台,http://cdn.tw.hktv.me/live.m3u8?id=dsyzxw
-東森新聞台HD,http://cdn.tw.hktv.me/live.m3u8?id=dsxwhd
-公視二台HD,http://cdn.tw.hktv.me/live.m3u8?id=gs2hd
-公視戲劇HD,http://cdn.tw.hktv.me/live.m3u8?id=gsxj
+CI 罪案偵查頻道HD,http://cdn.tw.hktv.me/live.m3u8?id=cihd
+E EntertainmentHD,http://cdn.tw.hktv.me/live.m3u8?id=ehd
+ANIMAX HD,http://kb1.ottclub.info:443/kitty/c708.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+中視HD,http://cdn.tw.hktv.me/live.m3u8?id=zshd
 華視HD,http://cdn.tw.hktv.me/live.m3u8?id=hshd
-
-
-華視新聞HD,http://cdn.tw.hktv.me/live.m3u8?id=hsxwhd
-寰宇新聞二台HD,http://cdn.tw.hktv.me/live.m3u8?id=hyxw2hd
-寰宇新聞台HD,http://cdn.tw.hktv.me/live.m3u8?id=hyxwhd
-靖天電影台HD,http://cdn.tw.hktv.me/live.m3u8?id=jtdyhd
-靖天國際台HD,http://cdn.tw.hktv.me/live.m3u8?id=jtgjhd
-靖天卡通台HD,http://cdn.tw.hktv.me/live.m3u8?id=jtkthd
-靖天日本台HD,http://cdn.tw.hktv.me/live.m3u8?id=jtrbhd
-靖天映畫台HD,http://cdn.tw.hktv.me/live.m3u8?id=jtyhhd
-靖天育樂台HD,http://cdn.tw.hktv.me/live.m3u8?id=jyylhd
-靖天資訊台HD,http://cdn.tw.hktv.me/live.m3u8?id=jtzxhd
-靖天綜合台HD,http://cdn.tw.hktv.me/live.m3u8?id=jtzh
-靖洋卡通台Nice BingoHD,http://cdn.tw.hktv.me/live.m3u8?id=jyktnicehd
-空中英語教室HD,http://cdn.tw.hktv.me/live.m3u8?id=kzyyhd
-龍華卡通台HD,http://cdn.tw.hktv.me/live.m3u8?id=lhkthd
-龍華偶像台HD,http://cdn.tw.hktv.me/live.m3u8?id=lhoxhd
-龍華日韓台HD,http://cdn.tw.hktv.me/live.m3u8?id=lhrhjhd
-龍華戲劇台HD,http://cdn.tw.hktv.me/live.m3u8?id=lhyjhd
 民視HD,http://cdn.tw.hktv.me/live.m3u8?id=mshd
 民視旅遊台HD,http://cdn.tw.hktv.me/live.m3u8?id=mslyhd
 民視台灣台HD,http://cdn.tw.hktv.me/live.m3u8?id=mstwhd
-民視新聞台HD,http://cdn.tw.hktv.me/live.m3u8?id=msxwhd
-民視影劇台HD,http://cdn.tw.hktv.me/live.m3u8?id=msyjhd
-民視綜藝台HD,http://cdn.tw.hktv.me/live.m3u8?id=mszyhd
-人間衛視HD,http://cdn.tw.hktv.me/live.m3u8?id=rjws
-台灣交通台HD,http://cdn.tw.hktv.me/live.m3u8?id=twjthd
-亞洲旅遊台HD,http://cdn.tw.hktv.me/live.m3u8?id=yzlyhd
-影迷數位電影台HD,http://cdn.tw.hktv.me/live.m3u8?id=ymswdyhd
-中視HD,http://cdn.tw.hktv.me/live.m3u8?id=zshd
-中視新聞HD,http://cdn.tw.hktv.me/live.m3u8?id=zsxwhd
-中天新聞HD,http://cdn.tw.hktv.me/live.m3u8?id=ztxwhd
-
-
-
-
 中視HD,http://kb1.ottclub.info:443/fmts/c733.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyLSQ87ceA
 台視HD,http://kb1.ottclub.info:443/fmts/c732.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyLSQ87ceA
 公視HD,http://kb1.ottclub.info:443/fmts/c735.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyLSQ87ceA
@@ -79,6 +40,7 @@ History 歷史頻道二台HD,http://cdn.tw.hktv.me/live.m3u8?id=h2hd
 中天綜合HD,http://kb1.ottclub.info:443/fmts/c658.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
 中天娛樂,http://kb1.ottclub.info:443/fmts/c660.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
 中天亞洲,http://live.gslb.letv.com/gslb?stream_id=pay_cti_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+靖天綜合台HD,http://cdn.tw.hktv.me/live.m3u8?id=jtzh
 緯來綜合,http://kb1.ottclub.info:443/fmts/c744.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
 東森綜合HD,http://kb1.ottclub.info:443/fmts/c656.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
 JET綜合,http://kb1.ottclub.info:443/fmts/c665.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
@@ -103,6 +65,13 @@ ANX,http://kb1.ottclub.info:443/water/c679.stream/playlist.m3u8?a=58d68cc2&b=cgc
 AXN,http://kb1.ottclub.info:443/fmts/c692.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
 好來塢電影,http://kb1.ottclub.info:443/fmts/c693.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyLSQ87ceA
 Star Movies HD,http://kb1.ottclub.info:443/kitty/c722.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+民視影劇台HD,http://cdn.tw.hktv.me/live.m3u8?id=msyjhd
+民視綜藝台HD,http://cdn.tw.hktv.me/live.m3u8?id=mszyhd
+影迷數位電影台HD,http://cdn.tw.hktv.me/live.m3u8?id=ymswdyhd
+東森亞洲衛視,http://cdn.tw.hktv.me/live.m3u8?id=dsyzws
+公視二台HD,http://cdn.tw.hktv.me/live.m3u8?id=gs2hd
+公視戲劇HD,http://cdn.tw.hktv.me/live.m3u8?id=gsxj
+靖天電影台HD,http://cdn.tw.hktv.me/live.m3u8?id=jtdyhd
 衛視中文HD,http://kb1.ottclub.info:443/water/c713.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
 衛視中文,http://kb1.ottclub.info:443/fmts/c737.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
 FOX HD,http://kb1.ottclub.info:443/water/c731.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
@@ -113,6 +82,14 @@ FOX HD,http://kb1.ottclub.info:443/water/c731.stream/playlist.m3u8?a=58d68cc2&b=
 東森戲劇,http://kb1.ottclub.info:443/fmts/c661.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
 八大戲劇,http://kb1.ottclub.info:443/fmts/c662.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
 緯來戲劇,http://kb1.ottclub.info:443/fmts/c664.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+中視新聞HD,http://cdn.tw.hktv.me/live.m3u8?id=zsxwhd
+中天新聞HD,http://cdn.tw.hktv.me/live.m3u8?id=ztxwhd
+華視新聞HD,http://cdn.tw.hktv.me/live.m3u8?id=hsxwhd
+民視新聞台HD,http://cdn.tw.hktv.me/live.m3u8?id=msxwhd
+寰宇新聞二台HD,http://cdn.tw.hktv.me/live.m3u8?id=hyxw2hd
+寰宇新聞台HD,http://cdn.tw.hktv.me/live.m3u8?id=hyxwhd
+東森亞洲新聞台,http://cdn.tw.hktv.me/live.m3u8?id=dsyzxw
+東森新聞台HD,http://cdn.tw.hktv.me/live.m3u8?id=dsxwhd
 壹新聞,http://kb1.ottclub.info:443/kitty/c558.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
 年代新聞HD,http://kb1.ottclub.info:443/fmts/c666.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
 東森新聞HD,http://kb1.ottclub.info:443/fmts/c667.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
@@ -123,6 +100,16 @@ TVBS新聞HD,http://kb1.ottclub.info:443/fmts/c684.stream/playlist.m3u8?a=58d68c
 TVBS HD,http://kb1.ottclub.info:443/fmts/c685.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
 東森財經新聞HD,http://kb1.ottclub.info:443/fmts/c686.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
 非凡新聞HD,http://kb1.ottclub.info:443/fmts/c687.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
+靖天國際台HD,http://cdn.tw.hktv.me/live.m3u8?id=jtgjhd
+靖天日本台HD,http://cdn.tw.hktv.me/live.m3u8?id=jtrbhd
+靖天映畫台HD,http://cdn.tw.hktv.me/live.m3u8?id=jtyhhd
+靖天資訊台HD,http://cdn.tw.hktv.me/live.m3u8?id=jtzxhd
+靖洋卡通台Nice BingoHD,http://cdn.tw.hktv.me/live.m3u8?id=jyktnicehd
+龍華卡通台HD,http://cdn.tw.hktv.me/live.m3u8?id=lhkthd
+龍華偶像台HD,http://cdn.tw.hktv.me/live.m3u8?id=lhoxhd
+龍華日韓台HD,http://cdn.tw.hktv.me/live.m3u8?id=lhrhjhd
+龍華戲劇台HD,http://cdn.tw.hktv.me/live.m3u8?id=lhyjhd
+人間衛視HD,http://cdn.tw.hktv.me/live.m3u8?id=rjws
 CN卡通頻道,http://kb1.ottclub.info:443/fmts/c740.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
 迪士尼頻道,http://kb1.ottclub.info:443/fmts/c741.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
 動漫海賊王,http://kb3.ottclub.info:1935/aunh/c307.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
