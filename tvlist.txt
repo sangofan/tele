@@ -25,12 +25,8 @@ E EntertainmentHD,http://cdn.tw.hktv.me/live.m3u8?id=ehd
 ANIMAX HD,http://kb1.ottclub.info:443/kitty/c708.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
 
 香港卫视,rtmp://live.hkstv.hk.lxdns.com/live/hks
-亚洲联合卫视,http://tv.unbtv.tv/app_2/ls_1.stream/playlist.m3u8                 
-亚太第一,http://v1.one-tv.com:1935/live/mpegts.stream/playlist.m3u8
-Viu TVHD,http://viutv99-i.akamaihd.net/hls/live/265284/live1/master.m3u8
+viutv,http://viutv99-i.akamaihd.net/hls/live/265284/live1/stream4/streamPlaylist.m3u8
 中华卫视神州台,http://live.kapad.cn/live/live2.m3u8
-凤凰电影,rtmp://115.156.165.45:1935/iptv/fhdy
-TVB星河,http://222.37.159.225:13164/playurl.m3u8?playtype=live&protocol=ios&accesstoken=R58836320U30606625K7735C7CBM301BD82W3537471&programid=4200000107&playtoken=ABCDEFGH&ts=50&verifycode=2000000610
 香港电视31台, http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8#http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-b.m3u8
 香港电视32台, http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_2052_av-b.m3u8#http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_810_av-b.m3u8
 
