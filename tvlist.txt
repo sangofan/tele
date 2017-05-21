@@ -1,5 +1,11 @@
 
 BBC Lifestyle,http://kb1.ottclub.info:443/kitty/c719.stream/playlist.m3u8?a=58fd00d3&b=zV03tC9Sk9LZkZocnHl5Uw
+探索科學台標清,http://kb1.ottclub.info:443/water/c715.stream/playlist.m3u8?a=58fd00d3&b=zV03tC9Sk9LZkZocnHl5Uw
+國家地理野生台標清,http://kb1.ottclub.info:443/kitty/c707.stream/playlist.m3u8?a=58fd00d3&b=zV03tC9Sk9LZkZocnHl5Uw
+國家地理頻道台標清,http://kb1.ottclub.info:443/fmts/n705.stream/playlist.m3u8?a=58fd00d3&b=zV03tC9Sk9LZkZocnHl5Uw
+TLC 標清,http://kb1.ottclub.info:443/fmts/n707.stream/playlist.m3u8?a=58fd00d3&b=zV03tC9Sk9LZkZocnHl5Uw
+動物星球台標清,http://kb1.ottclub.info:443/fmts/n708.stream/playlist.m3u8?a=58fd00d3&b=zV03tC9Sk9LZkZocnHl5Uw
+
 
 CHC動作電影,http://zb.q8kk.com/d.php?id=chcdzdy
 CHC家庭影院,http://zb.q8kk.com/d.php?id=chcjtyy
