@@ -1,40 +1,5 @@
-CHC動作電影,http://zb.q8kk.com/d.php?id=chcdzdy
-CHC家庭影院,http://zb.q8kk.com/d.php?id=chcjtyy
-DOX HD,http://zb.q8kk.com/d.php?id=doxhd
-DOX影院HD,http://zb.q8kk.com/d.php?id=doxyy
-求索紀錄,http://zb.q8kk.com/d.php?id=doxyx
-Diva,http://zb.q8kk.com/d.php?id=diva
-EYE TV戲劇,http://zb.q8kk.com/d.php?id=eyetvxj
-NOWTV,http://zb.q8kk.com/d.php?id=nowtv
-TVBS綜合,http://zb.q8kk.com/d.php?id=tvbszh
-TVB星河,http://zb.q8kk.com/d.php?id=tvbxh
-探索頻道HD,http://zb.q8kk.com/d.php?id=tspd
-ELTA影劇HD,http://zb.q8kk.com/d.php?id=eltayj
-ELTA體育,http://zb.q8kk.com/d.php?id=eltaty
-ELTA足球,http://zb.q8kk.com/d.php?id=eltazq
-FOX CFB,http://zb.q8kk.com/d.php?id=asnhd
-AXN,http://zb.q8kk.com/d.php?id=axnhd
-Cinemax,http://zb.q8kk.com/d.php?id=cinemax
-FOX Plus HD,http://zb.q8kk.com/d.php?id=foxplus
-HBO溫馨家庭,http://zb.q8kk.com/d.php?id=hbojt
-FOX警匪HD,http://zb.q8kk.com/d.php?id=foxjfhd
-NBA,http://zb.q8kk.com/d.php?id=nba
-TVBS新聞,http://zb.q8kk.com/d.php?id=tvbsxw
 
-Kenny
-q8kk
- 作者： 思绪的空中生活  发布时间： 2017-05-19  466瀏覽  12 條評論  分類： 直播源
- 首頁 正文   分享到：  
-说明
-多个节点a b c d e,比如
-http://zb.q8kk.com/a.php?id=fhwshd
-http://zb.q8kk.com/b.php?id=fhwshd
-http://zb.q8kk.com/c.php?id=fhwshd
-http://zb.q8kk.com/d.php?id=fhwshd
-http://zb.q8kk.com/e.php?id=fhwshd
-自行测试选择最快节点观看。
 
-以下资源由 123 补充，感谢
 
 CHC動作電影,http://zb.q8kk.com/d.php?id=chcdzdy
 CHC家庭影院,http://zb.q8kk.com/d.php?id=chcjtyy
@@ -292,14 +257,11 @@ Babyfirst,http://202.39.43.119/sta/ch992017010564021.m3u8
 香港电视32台, http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_2052_av-b.m3u8#http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_810_av-b.m3u8
 http://kb1.ottclub.info:443/fmts/c660.stream/playlist.m3u8?a=58d68cc2&b=cgcE7aA5GH08GyL76ceA
 
-标清翡翠台,http://wshls.acgvideo.com/live/live_752869_9917726/playlist.m3u8
+
 TVB星河http://222.37.159.225:13164/playurl.m3u8?playtype=live&protocol=ios&accesstoken=R58836320U30606625K7735C7CBM301BD82W3537471&programid=4200000107&playtoken=ABCDEFGH&ts=50&verifycode=2000000610
-凤凰中文,http://zv.3gv.ifeng.com/live/zhongwen800k.m3u8
+
 凤凰资讯,http://zv.3gv.ifeng.com/live/zixun800k.m3u8
 翡翠台,http://wshls.acgvideo.com/live/live_752869_9917726/playlist.m3u8
-翡翠台亚州版,http://acm.gg/jade.m3u8
-翡翠台歐州版,http://acm.gg/jadea.m3u8
+
 翡翠台日間電影http://wshls.acgvideo.com/live/live_752869_9917726/playlist.m3u8
 樂視演唱會,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_concert_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-廣東珠江,http://www.migutv.ga/iptv/zhujiang.m3u8
-珠江电影,http://www.migutv.ga/iptv/zjdy.m3u8
