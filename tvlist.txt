@@ -5,6 +5,8 @@ BBC Lifestyle,http://kb1.ottclub.info:443/kitty/c719.stream/playlist.m3u8?a=58fd
 國家地理頻道台標清,http://kb1.ottclub.info:443/fmts/n705.stream/playlist.m3u8?a=58fd00d3&b=zV03tC9Sk9LZkZocnHl5Uw
 TLC 標清,http://kb1.ottclub.info:443/fmts/n707.stream/playlist.m3u8?a=58fd00d3&b=zV03tC9Sk9LZkZocnHl5Uw
 動物星球台標清,http://kb1.ottclub.info:443/fmts/n708.stream/playlist.m3u8?a=58fd00d3&b=zV03tC9Sk9LZkZocnHl5Uw
+Discovery,http://kb1.ottclub.info:443/kitty/c716.stream/playlist.m3u8?a=58f0bed9&b=Pu51-RhPi8nT4tEu1fDndw
+星衛娛樂台,http://kb1.ottclub.info:443/kitty/c723.stream/playlist.m3u8?a=58f0bed9&b=Pu51-RhPi8nT4tEu1fDndw
 
 
 CHC動作電影,http://zb.q8kk.com/d.php?id=chcdzdy
@@ -121,7 +123,7 @@ BS1,http://zb.q8kk.com/a.php?id=bs1
 ESPN,http://zb.q8kk.com/a.php?id=espn
 CNBC,http://zb.q8kk.com/a.php?id=cnbc
 
-Discovery 科學,http://58.99.33.2:1935/liveedge4/live_201_2.stream/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa&as&dr&mmmm
+
 
 民視台灣台,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv001/master.m3u8?token=8XycAL3KUmkKzWrXCp2EPA&expires=1494745196
 民視,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv002/master.m3u8?token=4DsfpL7FyF_XTuBst5fXCQ&expires=1494745182
