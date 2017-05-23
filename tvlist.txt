@@ -1,4 +1,4 @@
-
+Now TV,http://hk2.q8kk.com:5000/nn_live.m3u8?id=NOWTV&ngs=5923b1b82e2e53042a0a984444a5c6e2&nn_user_id=nimingyonghu40&ndi=LIVE&nal=01b9b123590607de1417c87ba9c0366167e7d52bf440fd#http://sg2.q8kk.com:5000/nn_live.m3u8?id=NOWTV&ngs=59237a84edda9f1fd147e923caa20b01&nn_user_id=nimingyonghu19&ndi=LIVE&nal=01847a235906076d8bd465804337496f897f097278f5c4
 BBC Lifestyle,http://kb1.ottclub.info:443/kitty/c719.stream/playlist.m3u8?a=58fd00d3&b=zV03tC9Sk9LZkZocnHl5Uw
 探索科學台標清,http://kb1.ottclub.info:443/water/c715.stream/playlist.m3u8?a=58fd00d3&b=zV03tC9Sk9LZkZocnHl5Uw
 國家地理野生台標清,http://kb1.ottclub.info:443/kitty/c707.stream/playlist.m3u8?a=58fd00d3&b=zV03tC9Sk9LZkZocnHl5Uw
