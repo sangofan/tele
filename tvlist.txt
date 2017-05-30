@@ -34,6 +34,15 @@ Babyfirst,http://202.39.43.119/sta/ch3862017010564021.m3u8
 龙华日韩,http://202.39.43.119/sta/ch3862017010564024.m3u8
 
 
+中天亚洲,http://202.39.43.119/stc/ch2016112265038.m3u8
+人间卫视,http://202.39.43.119/stc/ch2016112265043.m3u8
+中视经典,http://202.39.43.119/stc/ch2016112265061.m3u8
+中视新闻,http://202.39.43.119/stc/ch2016112265062.m3u8
+中视,http://202.39.43.119/stc/ch2016112265064.m3u8
+tvbs,http://202.39.43.119/stc/ch2016112265065.m3u8
+tvbs新闻台,http://202.39.43.119/stc/ch2016112265066.m3u8
+tvb8,http://202.39.43.119/stc/ch2016112265067.m3u8
+
 澳視澳門,http://live4.tdm.com.mo:80/ch1/_definst_//ch1.live/playlist.m3u8
 澳門Macau,http://live4.tdm.com.mo:80/ch3/_definst_//ch3.live/playlist.m3u8
 澳衛澳門,http://live4.tdm.com.mo:80/ch1/_definst_//ch1.live/playlist.m3u8
