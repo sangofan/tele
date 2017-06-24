@@ -32,3 +32,5 @@ momo 2,http://202.39.43.119/stc/ch2017010665095.m3u8
 不知名,http://202.39.43.119/stc/ch2017021865340.m3u8
 超级综艺show,http://202.39.43.119/stc/ch2017022365162.m3u8
 大陆寻奇,http://202.39.43.119/stc/ch2017022365163.m3u8
+
+Viutv,http://viutv99-i.akamaihd.net/hls/live/265284/live1/stream4/streamPlaylist.m3u8
