@@ -4,6 +4,8 @@ hktv, http://14.198.245.166:8080/enc2/04.m3u8?t=12e9a7f66f3a892b396e94d81206eb6c
 凤凰卫视中文台,http://111.13.42.8/PLTV/88888888/224/3221225942/index.m3u8
 凤凰卫视资讯台,http://111.13.42.8/PLTV/88888888/224/3221225941/index.m3u8
 凤凰卫视香港台,http://111.13.42.8/PLTV/88888888/224/3221225943/index.m3u8
+凤凰香港HD,http://111.13.42.8/PLTV/88888888/224/3221225684/index.m3u8
+凤凰中文HD,http://111.13.42.8/PLTV/88888888/224/3221225685/index.m3u8
 娱乐新闻台,http://hk.sixu.life/tv/tvbenews.m3u8
 澳亚卫视,http://live.mastvnet.com/n1rtlHG/500/live.m3u8
 澳卫澳门,http://live4.tdm.com.mo:80/ch1/_definst_//ch1.live/playlist.m3u8
