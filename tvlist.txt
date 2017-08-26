@@ -3,8 +3,11 @@ Viutv,http://viutv99-i.akamaihd.net/hls/live/265284/live1/stream4/streamPlaylist
 now直播,http://hk.sixu.life/now.m3u8?id=331
 now新闻,http://hk.sixu.life/now.m3u8?id=332
 娱乐新闻台,http://hk.sixu.life/tv/tvbenews.m3u8
+香港电视31台, http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8#http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-b.m3u8
+香港电视32台, http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_2052_av-b.m3u8#http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_810_av-b.m3u8
 天映频道HD,http://acm.gg/bili.m3u8?id=4139853
 凤凰电影台,http://121.251.49.204/hls/fhdy.m3u8
+
 澳亚卫视,http://live.mastvnet.com/n1rtlHG/500/live.m3u8
 澳卫澳门,http://live4.tdm.com.mo:80/ch1/_definst_//ch1.live/playlist.m3u8
 澳门Macau,http://live4.tdm.com.mo:80/ch3/_definst_//ch3.live/playlist.m3u8
