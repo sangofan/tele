@@ -1,26 +1,36 @@
-now直播,http://hk.sixu.life/now.m3u8?id=331
 now新闻,http://hk.sixu.life/now.m3u8?id=332
-hktv, http://14.198.245.166:8080/enc2/04.m3u8?t=12e9a7f66f3a892b396e94d81206eb6c&udid=a42bc0b5ac8dc21cb14f66924a25f468&uid=1&vid=1&mxres=1920&s=35556a8d92fa04b373ca45fa5f35c36a&cname=index2
-凤凰卫视中文台,http://111.13.42.8/PLTV/88888888/224/3221225942/index.m3u8
-凤凰卫视中文台,http://111.13.42.8/PLTV/88888888/224/3221225685/index.m3u8
-凤凰卫视资讯台,http://111.13.42.8/PLTV/88888888/224/3221225941/index.m3u8
-凤凰卫视香港台,http://111.13.42.8/PLTV/88888888/224/3221225943/index.m3u8
-凤凰香港HD,http://111.13.42.8/PLTV/88888888/224/3221225684/index.m3u8
-
 娱乐新闻台,http://hk.sixu.life/tv/tvbenews.m3u8
+hktv, http://14.198.245.166:8080/enc2/04.m3u8?t=12e9a7f66f3a892b396e94d81206eb6c&udid=a42bc0b5ac8dc21cb14f66924a25f468&uid=1&vid=1&mxres=1920&s=35556a8d92fa04b373ca45fa5f35c36a&cname=index2
+天映频道HD,http://acm.gg/bili.m3u8?id=4139853
 澳亚卫视,http://live.mastvnet.com/n1rtlHG/500/live.m3u8
 澳卫澳门,http://live4.tdm.com.mo:80/ch1/_definst_//ch1.live/playlist.m3u8
 澳门Macau,http://live4.tdm.com.mo:80/ch3/_definst_//ch3.live/playlist.m3u8
 澳视高清,http://live3.tdm.com.mo:1935/ch6/hd_ch6.live/media_w2145388172.m3u8
 澳视体育,http://live3.tdm.com.mo:1935/ch4/sport_ch4.live/chunklist_w1608596921.m3u8
 澳门莲花,rtmp://3xhtut.live1.z1.pili.qiniucdn.com/lotustv/5562e9e4d409d24c9600075c
+
+凤凰卫视中文台,http://111.13.42.8/PLTV/88888888/224/3221225942/index.m3u8
+凤凰卫视中文台,http://111.13.42.8/PLTV/88888888/224/3221225685/index.m3u8
+凤凰卫视资讯台,http://111.13.42.8/PLTV/88888888/224/3221225941/index.m3u8
+凤凰卫视香港台,http://111.13.42.8/PLTV/88888888/224/3221225943/index.m3u8
+凤凰香港HD,http://111.13.42.8/PLTV/88888888/224/3221225684/index.m3u8
 香港HKS-480P,http://fms.cntv.lxdns.com/live/flv/channel84.flv
+
+广东珠江,http://119.84.34.236/live/hls/201612083000002gt99/desc.m3u8
+广东综艺,http://119.84.34.236/live/hls/201612083000002j399/desc.m3u8
+广东南方卫视,http://119.84.34.236/live/hls/201612083000002is99/desc.m3u8
+广东南方影视,http://119.84.34.236/live/hls/201612083000002ja99/desc.m3u8
+深圳公共,http://www.szmgiptv.com:14436/hls/23.m3u8
+
+天映经典电影,http://27.254.63.162/stream/totnew.php?channel_id=1c2276a2f1884b269ce281c3334e8f85
+卫视中文台,http://27.254.63.162/stream/totnew.php?channel_id=29a09591a6604ff3b798cd7ef809e4bd
+
 奇妙電視,http://61.10.2.137/live_fantv/_definst_/fantv77_h.live/chunklist_w260562525.m3u8
 Viutv,http://viutv99-i.akamaihd.net/hls/live/265284/live1/stream4/streamPlaylist.m3u8
 Jade,http://live.alicdn.com/tvblive/jade.m3u8
 香港电视31台, http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8#http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-b.m3u8
 香港电视32台, http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_2052_av-b.m3u8#http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_810_av-b.m3u8
-天映频道HD,http://acm.gg/bili.m3u8?id=4139853
+
 凤凰电影台,http://121.251.49.204/hls/fhdy.m3u8
 中天新闻HD,http://fet2.sixu.ml/live/fet006/chunklist_w1500385082334.m3u8
 TVBS新闻,http://fet2.sixu.ml/live/fet005/chunklist_w1500639548166.m3u8
@@ -28,13 +38,9 @@ TVBS新闻,http://fet2.sixu.ml/live/fet005/chunklist_w1500639548166.m3u8
 BBC新闻,http://fet1.sixu.ml/live/fet001/chunklist_w1500640123099.m3u8
 東森新闻HD,http://fet2.sixu.ml/live/fet003/chunklist_w1500641464118.m3u8
 
-天映经典电影,http://27.254.63.162/stream/totnew.php?channel_id=1c2276a2f1884b269ce281c3334e8f85
-卫视中文台,http://27.254.63.162/stream/totnew.php?channel_id=29a09591a6604ff3b798cd7ef809e4bd
 卫视卡式台 (泰语字幕),http://27.254.63.162/stream/totnew.php?channel_id=c8233976dbba4a06a101780907447375
 
-
 广东体育HD,http://183.59.185.72:30001/PLTV/88888905/224/3221227484/10000100000000060000000003928833_0.smil
-广东珠江,http://119.84.34.236/live/hls/201612083000002gt99/desc.m3u8
 广东公共,http://119.84.34.236/live/hls/201612083000002i699/desc.m3u8
 广东国际,http://119.84.34.236/live/hls/201612083000002hi99/desc.m3u8
 广东经视,http://119.84.34.236/live/hls/201612083000002ic99/desc.m3u8
@@ -42,9 +48,6 @@ BBC新闻,http://fet1.sixu.ml/live/fet001/chunklist_w1500640123099.m3u8
 广东体育,http://119.84.34.236/live/hls/201612083000002ht99/desc.m3u8
 广东卫视,http://119.84.34.236/live/hls/201612083000002fb99/desc.m3u8
 广东新闻,http://119.84.34.236/live/hls/201612083000002h899/desc.m3u8
-广东综艺,http://119.84.34.236/live/hls/201612083000002j399/desc.m3u8
-广东南方卫视,http://119.84.34.236/live/hls/201612083000002is99/desc.m3u8
-广东南方影视,http://119.84.34.236/live/hls/201612083000002ja99/desc.m3u8
 广东嘉佳卡通,http://119.84.34.236/live/hls/201612083000002jl99/desc.m3u8
 
 深圳卫视高清,http://www.szmgiptv.com:14436/hls/7.m3u8
@@ -54,7 +57,6 @@ BBC新闻,http://fet1.sixu.ml/live/fet001/chunklist_w1500640123099.m3u8
 深圳电视剧,http://www.szmgiptv.com:14436/hls/11.m3u8
 深圳少儿,http://www.szmgiptv.com:14436/hls/21.m3u8
 深圳娱乐,http://www.szmgiptv.com:14436/hls/22.m3u8
-深圳公共,http://www.szmgiptv.com:14436/hls/23.m3u8
 深圳财经生活,http://www.szmgiptv.com:14436/hls/24.m3u8
 
 乐视电影720P,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_movie_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1012&format=letv&expect=1
@@ -64,3 +66,5 @@ BBC新闻,http://fet1.sixu.ml/live/fet001/chunklist_w1500640123099.m3u8
 华语电影,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hydy_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 日韩电影,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_rhdy_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 粤语音乐,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_yyyy_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+now直播,http://hk.sixu.life/now.m3u8?id=331
