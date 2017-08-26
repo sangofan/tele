@@ -13,8 +13,6 @@ now新闻,http://hk.sixu.life/now.m3u8?id=332
 
 中天新闻HD,http://fet2.sixu.ml/live/fet006/chunklist_w1500385082334.m3u8
 TVBS新闻,http://fet2.sixu.ml/live/fet005/chunklist_w1500639548166.m3u8
-東森财经新闻,http://fet.sixu.ml/live/fet004/chunklist_w1500639828294.m3u8
 民视新闻HD,http://fet2.sixu.ml/live/fet002/chunklist_w1500640000947.m3u8
 BBC新闻,http://fet1.sixu.ml/live/fet001/chunklist_w1500640123099.m3u8
-Bloombe,http://fet2.sixu.ml/live/fet007/chunklist_w1500640268626.m3u8
 東森新闻HD,http://fet2.sixu.ml/live/fet003/chunklist_w1500641464118.m3u8
