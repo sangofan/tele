@@ -1,8 +1,10 @@
 Viutv,http://viutv99-i.akamaihd.net/hls/live/265284/live1/stream4/streamPlaylist.m3u8
 奇妙電視,http://61.10.2.137/live_fantv/_definst_/fantv77_h.live/chunklist_w260562525.m3u8
-凤凰中文,http://zv.3gv.ifeng.com/live/zhongwen.m3u8 
+now直播,http://hk.sixu.life/now.m3u8?id=331
+now新闻,http://hk.sixu.life/now.m3u8?id=332
+娱乐新闻台,http://hk.sixu.life/tv/tvbenews.m3u8
+天映频道HD,http://acm.gg/bili.m3u8?id=4139853
 凤凰电影台,http://121.251.49.204/hls/fhdy.m3u8
-翡翠台,http://pull3.a8.com/live/jade/playlist.m3u8
 澳亚卫视,http://live.mastvnet.com/n1rtlHG/500/live.m3u8
 澳卫澳门,http://live4.tdm.com.mo:80/ch1/_definst_//ch1.live/playlist.m3u8
 澳门Macau,http://live4.tdm.com.mo:80/ch3/_definst_//ch3.live/playlist.m3u8
