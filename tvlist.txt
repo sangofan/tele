@@ -11,9 +11,11 @@ hktv, http://14.198.245.166:8080/enc2/04.m3u8?t=12e9a7f66f3a892b396e94d81206eb6c
 澳卫澳门,http://live4.tdm.com.mo:80/ch1/_definst_//ch1.live/playlist.m3u8
 澳门Macau,http://live4.tdm.com.mo:80/ch3/_definst_//ch3.live/playlist.m3u8
 澳视高清,http://live3.tdm.com.mo:1935/ch6/hd_ch6.live/media_w2145388172.m3u8
+澳门莲花,rtmp://3xhtut.live1.z1.pili.qiniucdn.com/lotustv/5562e9e4d409d24c9600075c
 本港HKS,http://live.hkstv.hk.lxdns.com/live/hks/playlist.m3u8
 奇妙電視,http://61.10.2.137/live_fantv/_definst_/fantv77_h.live/chunklist_w260562525.m3u8
 Viutv,http://viutv99-i.akamaihd.net/hls/live/265284/live1/stream4/streamPlaylist.m3u8
+Jade,http://live.alicdn.com/tvblive/jade.m3u8
 香港电视31台, http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8#http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-b.m3u8
 香港电视32台, http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_2052_av-b.m3u8#http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_810_av-b.m3u8
 天映频道HD,http://acm.gg/bili.m3u8?id=4139853
