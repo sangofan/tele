@@ -39,7 +39,7 @@ Jade,http://live.alicdn.com/tvblive/jade.m3u8
 台視,http://64.77.236.178/live/ch13.m3u8
 華語電視(華視),http://64.77.236.178/live/ch3.m3u8
 
-亞太第一衛視,http://61.58.60.247:9000/live/254.m3u8
+亞洲第一,http://v1.one-tv.com:1935/live/mpegts.stream/playlist.m3u8
 TVBS-G,http://210.201.54.102/glive/tvbsg/chunklist_w215702006.m3u8
 TVBS,http://210.201.54.101/glive/tvbs/chunklist_w849498738.m3u8
 AXN,http://ryuk.onetvgratis.com/lstream4/get/infinity/ship/213.flv
@@ -102,3 +102,7 @@ BBC新闻,http://fet1.sixu.ml/live/fet001/chunklist_w1500640123099.m3u8
 粤语音乐,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_yyyy_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
 now直播,http://hk.sixu.life/now.m3u8?id=331
+
+三立都會台,p2p://23.237.2.218:10028/5391ef5000070c181bd4da7b3ea05b05
+美食,p2p://23.237.2.218:10028/5391e3f1000626bf1ba86f2b50337701
+美亞電影台,p2p://23.237.2.218:10028/524a89b30007791e4b14707835c233d1
