@@ -9,6 +9,10 @@ hktv, http://14.198.245.166:8080/enc2/04.m3u8?t=12e9a7f66f3a892b396e94d81206eb6c
 澳视体育,http://live3.tdm.com.mo:1935/ch4/sport_ch4.live/chunklist_w1608596921.m3u8
 澳门莲花,rtmp://3xhtut.live1.z1.pili.qiniucdn.com/lotustv/5562e9e4d409d24c9600075c
 
+天映频道HD,http://acm.gg/bili.m3u8?id=4139853
+嘉麗台(馬),http://61.58.60.247:9000/live/3.m3u8
+afc亞洲美食(中文),http://61.58.60.247:9000/live/176.m3u8
+
 凤凰卫视中文台,http://111.13.42.8/PLTV/88888888/224/3221225942/index.m3u8
 凤凰卫视中文台,http://111.13.42.8/PLTV/88888888/224/3221225685/index.m3u8
 凤凰卫视资讯台,http://111.13.42.8/PLTV/88888888/224/3221225941/index.m3u8
@@ -31,12 +35,43 @@ Jade,http://live.alicdn.com/tvblive/jade.m3u8
 香港电视31台, http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8#http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-b.m3u8
 香港电视32台, http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_2052_av-b.m3u8#http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_810_av-b.m3u8
 
+超視626,http://64.77.236.178/live/ch43.m3u8
+緯來美洲台,http://64.77.236.178/live/ch11.m3u8
+台視,http://64.77.236.178/live/ch13.m3u8
+華語電視(華視),http://64.77.236.178/live/ch3.m3u8
+
+亞太第一衛視,http://61.58.60.247:9000/live/254.m3u8
+TVBS-G,http://210.201.54.102/glive/tvbsg/chunklist_w215702006.m3u8
+TVBS,http://210.201.54.101/glive/tvbs/chunklist_w849498738.m3u8
+AXN,http://ryuk.onetvgratis.com/lstream4/get/infinity/ship/213.flv
+M電影,http://221.181.100.117:8088/wd_r2/ocn/dongfangdianyinghd/1200/01.m3u8
+tv2,http://rtm-live.glueapi.io/smil:rtmch002.smil/playlist.m3u8
+Fashion TV,http://origina.streaming.sk/liveedge/tvfashion/chunklist_w1749351574.m3u8
+Fashion,http://origina.streaming.sk/liveedge/tvfashion/playlist.m3u8
+Class TV Moda,http://liveclass.edgesuite.net/i/classtvmoda_1@199801/index_1_av-b.m3u8
+Fresh TV,http://wse.planeta-online.tv:1935/live/channel_4/index.m3u8
+WF HD,http://cdn-03.bonus-tv.ru/wfc/wfhdeu/type/none/eol/20200101T0000/hash/aabac2e34bf0820ea622974e83ae509b36cff888/playlist.m3u8
+KIX,http://27.254.63.162/stream/totnew.php?channel_id=e584e0adae6440eab366f5fe3a824f91
+
+SYFY,http://145.239.108.24:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7005.m3u8
+花兒高清電影,http://220.167.81.55/PLTV/88888888/224/3221226162/10000100000000060000000000119130_0.smil
+CatchPlay(中文),http://tc3akts.tv-bar.net/live/9501.stream/playlist.m3u8
+
+CN卡通(中文),http://210.201.54.101/glive/cncartoon/chunklist_w615638941.m3u8
+迪士尼頻道,http://145.239.108.24:6500/live/vZ5EoP9ACD/lvao3W3Rnq/7032.m3u8
+
+
+
+
 凤凰电影台,http://121.251.49.204/hls/fhdy.m3u8
 中天新闻HD,http://fet2.sixu.ml/live/fet006/chunklist_w1500385082334.m3u8
 TVBS新闻,http://fet2.sixu.ml/live/fet005/chunklist_w1500639548166.m3u8
 民视新闻HD,http://fet2.sixu.ml/live/fet002/chunklist_w1500640000947.m3u8
 BBC新闻,http://fet1.sixu.ml/live/fet001/chunklist_w1500640123099.m3u8
 東森新闻HD,http://fet2.sixu.ml/live/fet003/chunklist_w1500641464118.m3u8
+華視新聞,http://64.77.236.178/live/ch7.m3u8
+非凡新聞,http://64.77.236.178/live/ch8.m3u8
+非凡新聞,http://210.201.54.102/glive/ustvhd/chunklist_w1125446901.m3u8
 
 卫视卡式台 (泰语字幕),http://27.254.63.162/stream/totnew.php?channel_id=c8233976dbba4a06a101780907447375
 
