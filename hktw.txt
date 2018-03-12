@@ -1,0 +1,166 @@
+NOW直播台,https://wstreamks.now.com/originkey/Content/HLS/Live/Channel(hls_ch331)/Stream(02)/index.m3u8 
+NOW新闻台,https://wstreamks.now.com/originkey/Content/HLS/Live/Channel(hls_ch332)/Stream(03)/index.m3u8
+NOW财经台,https://wstreamks.now.com/originkey/Content/HLS/Live/Channel(hls_ch333)/Stream(02)/index.m3u8
+VIUTV,https://wstreamks.now.com/originkey/Content/HLS/Live/Channel(hls_ch099)/Stream(04)/index.m3u8
+NOW剧集台,https://wstreamks.now.com/originkey/Content/HLS/Live/Channel(hls_ch102)/Stream(04)/index.m3u8
+NOW华剧台,https://wstreamks.now.com/originkey/Content/HLS/Live/Channel(hls_ch105)/Stream(02)/index.m3u8
+NowJelli,https://wstreamks.now.com/originkey/Content/HLS/Live/Channel(hls_ch108)/Stream(03)/index.m3u8
+Cartoon Network,https://wstreamks.now.com/originkey/Content/HLS/Live/Channel(hls_ch443)/index.m3u8
+MTV LIVE HD香港,https://wstreamks.now.com/originkey/Content/HLS/Live/Channel(hls_ch505)/Stream(01)/index.m3u8
+華納電視頻道, https://wstreamks.now.com/originkey/Content/HLS/Live/Channel(hls_ch510)/Stream(03)/index.m3u8
+AXN,https://wstreamks.now.com/originkey/Content/HLS/Live/Channel(hls_ch512)/Stream(03)/index.m3u8
+索尼台,https://wstreamks.now.com/originkey/Content/HLS/Live/Channel(hls_ch514)/Stream(03)/index.m3u8
+RTL CBS Entertainment,https://wstreamks.now.com/originkey/Content/HLS/Live/Channel(hls_ch517)/Stream(03)/index.m3u8
+Lifetime,https://wstreamks.now.com/originkey/Content/HLS/Live/Channel(hls_ch525)/Stream(03)/index.m3u8
+Food Network,https://wstreamks.now.com/originkey/Content/HLS/Live/Channel(hls_ch525)/Stream(03)/index.m3u8
+Premier League TV,https://wstreamks.now.com/originkey/Content/HLS/Live/Channel(hls_ch620)/Stream(03)/index.m3u8
+BBC Earth,https://wstreamks.now.com/originkey/Content/HLS/Live/Channel(hls_ch220)/Stream(03)/index.m3u8
+國家地理悠人頻道,https://wstreamks.now.com/originkey/Content/HLS/Live/Channel(hls_ch217)/Stream(03)/index.m3u8
+國家地理野生頻道,https://wstreamks.now.com/originkey/Content/HLS/Live/Channel(hls_ch216)/index.m3u8
+國家地理頻道,https://wstreamks.now.com/originkey/Content/HLS/Live/Channel(hls_ch215)/index.m3u8
+Oh!K,https://wstreamks.now.com/originkey/Content/HLS/Live/Channel(hls_ch154)/index.m3u8
+GEM,https://wstreamks.now.com/originkey/Content/HLS/Live/Channel(hls_ch151)/Stream(03)/index.m3u8
+
+HKC财经资讯台,http://61.18.0.107:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_chan_hls_se_idx=19&Provider_id=&Pcontent_id=index.m3u8
+HKC18台,http://61.18.0.107:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_chan_hls_se_idx=10&Provider_id=&Pcontent_id=index.m3u8
+HKC球彩台,http://61.18.0.107:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_chan_hls_se_idx=11&Provider_id=&Pcontent_id=index.m3u8
+HKC201,http://61.18.0.107:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_chan_hls_se_idx=12&Provider_id=&Pcontent_id=index.m3u8
+HKC202,http://61.18.0.107:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_chan_hls_se_idx=13&Provider_id=&Pcontent_id=index.m3u8
+HKC203,http://61.18.0.107:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_chan_hls_se_idx=14&Provider_id=&Pcontent_id=index.m3u8
+HKC娱乐台,http://61.18.0.107:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_chan_hls_se_idx=15&Provider_id=&Pcontent_id=index.m3u8
+HKC新闻台,http://61.18.0.107:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_chan_hls_se_idx=17&Provider_id=&Pcontent_id=index.m3u8
+HKC剧集台,http://61.18.0.107:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_chan_hls_se_idx=16&Provider_id=&Pcontent_id=index.m3u8
+
+民視台灣,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv001/litv-pc/index.m3u8
+民視,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv002/litv-pc/index.m3u8
+民視第一,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv003/litv-pc/index.m3u8
+民視綜藝,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv004/litv-pc/index.m3u8
+豬哥亮歌廳秀,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv006/litv-pc/index.m3u8
+大愛電視,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv007/litv-pc/index.m3u8
+人間衛視,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv008/litv-pc/index.m3u8
+中天新聞,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv009/litv-pc/index.m3u8
+非凡新聞,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv010/litv-pc/index.m3u8
+影迷數位電影,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv011/litv-pc/index.m3u8
+空中英語教室,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv012/litv-pc/index.m3u8
+CNEX 視納華仁紀實,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv013/litv-pc/index.m3u8
+時尚運動,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv014/litv-pc/index.m3u8
+FashionOne,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv015/litv-pc/index.m3u8
+韓國娛樂,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv016/litv-pc/index.m3u8
+aMC,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv017/litv-pc/index.m3u8
+Da Vinci Kid,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv018/litv-pc/index.m3u8
+東森財經新聞,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv019/litv-pc/index.m3u8
+東森亞洲衛視,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv020/litv-pc/index.m3u8
+東森幼幼,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv021/litv-pc/index.m3u8
+東森亞洲新聞,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv022/litv-pc/index.m3u8
+ComedyCentral爆笑,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv024/litv-pc/index.m3u8
+MTV LIVE HD,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv025/litv-pc/index.m3u8
+HISTORY 歷史頻道,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv026/litv-pc/index.m3u8
+CI罪案偵查頻道,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv027/litv-pc/index.m3u8
+HISTORY 2,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv028/litv-pc/index.m3u8
+LIFE TIME,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv029/litv-pc/index.m3u8
+CNBC Asia 財經,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv030/litv-pc/index.m3u8
+fyi 生活頻道,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv031/litv-pc/index.m3u8
+nick jr,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv032/litv-pc/index.m3u8
+中天綜合,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv033/litv-pc/index.m3u8
+E! Entertainment,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv034/litv-pc/index.m3u8
+鳳梨直擊,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv035/litv-pc/index.m3u8
+itv CHOICE,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv036/litv-pc/index.m3u8
+iconceits,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv037/litv-pc/index.m3u8
+香蕉直擊,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv038/litv-pc/index.m3u8
+八大綜合,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv039/litv-pc/index.m3u8
+中視,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv040/litv-pc/index.m3u8
+華視,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv041/litv-pc/index.m3u8
+公視戲劇,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv042/litv-pc/index.m3u8
+HakkaTV,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv043/litv-pc/index.m3u8
+靖天卡通,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv044/litv-pc/index.m3u8
+靖洋戲劇,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv045/litv-pc/index.m3u8
+靖天綜合,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv046/litv-pc/index.m3u8
+靖天日本,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv047/litv-pc/index.m3u8
+未知,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv048/litv-pc/index.m3u8
+彩昌戲劇,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv049/litv-pc/index.m3u8
+新唐人亞太,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv050/litv-pc/index.m3u8
+台視新聞,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv051/litv-pc/index.m3u8
+華視新聞資訊,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv052/litv-pc/index.m3u8
+未知電影,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv053/litv-pc/index.m3u8
+香港美食,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv054/litv-pc/index.m3u8
+靖天映畫,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv055/litv-pc/index.m3u8
+台視財經,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv056/litv-pc/index.m3u8
+靖洋卡通,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv057/litv-pc/index.m3u8
+靖天戲劇,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv058/litv-pc/index.m3u8
+經典音樂,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv059/litv-pc/index.m3u8
+中華財經,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv060/litv-pc/index.m3u8
+靖天電影,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv061/litv-pc/index.m3u8
+靖天育樂,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv062/litv-pc/index.m3u8
+靖天國際,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv063/litv-pc/index.m3u8
+台視菁采,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv064/litv-pc/index.m3u8
+靖天資訊,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv065/litv-pc/index.m3u8
+台視,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv066/litv-pc/index.m3u8
+TVBS精采,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv067/litv-pc/index.m3u8
+愛爾達娛樂,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv070/litv-pc/index.m3u8
+TVBS新聞,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv072/litv-pc/index.m3u8
+TVBS,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv073/litv-pc/index.m3u8
+中視新聞,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv074/litv-pc/index.m3u8
+SMART,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv076/litv-pc/index.m3u8
+TRACE運動,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv077/litv-pc/index.m3u8
+OUTDOOR,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv078/litv-pc/index.m3u8
+traveL,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv079/litv-pc/index.m3u8
+台視經典台,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv080/litv-pc/index.m3u8
+TRACE音樂,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv082/litv-pc/index.m3u8
+mezzo,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv083/litv-pc/index.m3u8
+國會頻道1,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv084/litv-pc/index.m3u8
+國會頻道2,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv085/litv-pc/index.m3u8
+院會頻道,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv089/litv-pc/index.m3u8
+內政頻道,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv090/litv-pc/index.m3u8
+外交及國防頻道,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv091/litv-pc/index.m3u8
+經濟頻道,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv092/litv-pc/index.m3u8
+財政頻道,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv093/litv-pc/index.m3u8
+教育及文化頻道,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv094/litv-pc/index.m3u8
+交通頻道,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv095/litv-pc/index.m3u8
+司法及法制頻道,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv096/litv-pc/index.m3u8
+社會福利及衛生環境頻道,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv097/litv-pc/index.m3u8
+ELEVENSPORTS1,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv098/litv-pc/index.m3u8
+ELEVENSPORTS2,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv099/litv-pc/index.m3u8
+影視劇1,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv100/litv-pc/index.m3u8
+智林體育,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv101/litv-pc/index.m3u8
+影視劇2,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv102/litv-pc/index.m3u8
+學英語,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv103/litv-pc/index.m3u8
+天王豬哥秀,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv104/litv-pc/index.m3u8
+卡通,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv105/litv-pc/index.m3u8
+大愛2,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv106/litv-pc/index.m3u8
+公視二,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv107/litv-pc/index.m3u8
+VTV4,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv108/litv-pc/index.m3u8
+MOMO親子,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv111/litv-pc/index.m3u8
+天映經典頻道,http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv112/litv-pc/index.m3u8
+非凡商業,http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-ftv02/litv-pc/index.m3u8
+V0A美國之音,http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-ftv03/litv-pc/index.m3u8
+靖天資訊,http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-ftv04/litv-pc/index.m3u8
+民視旅遊,http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-ftv07/litv-pc/index.m3u8
+民視影劇,http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-ftv09/litv-pc/index.m3u8
+半島國際新聞,http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-ftv10/litv-pc/index.m3u8
+華研音樂,http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-ftv11/litv-pc/index.m3u8
+華研娛樂,http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-ftv12/litv-pc/index.m3u8
+民視新聞,http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-ftv13/litv-pc/index.m3u8
+東森新聞,http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-ftv14/litv-pc/index.m3u8
+愛放i-Fun動漫,http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-ftv15/litv-pc/index.m3u8
+好消息,http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-ftv16/litv-pc/index.m3u8
+好消息2,http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-ftv17/litv-pc/index.m3u8
+龍華卡通,http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn01/litv-pc/index.m3u8
+BabyFirst,http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn02/litv-pc/index.m3u8
+龍華電影,http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn03/litv-pc/index.m3u8
+博斯魅力,http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn04/litv-pc/index.m3u8
+博斯高球,http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn05/litv-pc/index.m3u8
+博斯高球2,http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn06/litv-pc/index.m3u8
+博斯運動,http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn07/litv-pc/index.m3u8
+博斯運動2,http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn08/litv-pc/index.m3u8
+博斯網球,http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn09/litv-pc/index.m3u8
+博斯無限,http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn10/litv-pc/index.m3u8
+龍華日韓,http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn11/litv-pc/index.m3u8
+龍華偶像,http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn12/litv-pc/index.m3u8
+博斯電玩,http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn13/litv-pc/index.m3u8
+寰宇新聞,http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn14/litv-pc/index.m3u8
+寰宇新聞2,http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn15/litv-pc/index.m3u8
+梅蒂斯藝術,http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn16/litv-pc/index.m3u8
+亞洲旅遊,http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn17/litv-pc/index.m3u8
+龍華戲劇,http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn18/litv-pc/index.m3u8
+FashionOne,http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn19/litv-pc/index.m3u8
+ELTV英語,http://btsu4k5-hisng.cdn.hinet.net/live/pool/litv-longturn20/litv-pc/index.m3u8
