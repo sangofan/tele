@@ -1,41 +1,68 @@
 
-#EXTINF:105, Example artist - Example title
-C:\Files\My Music\Example.mp3
-#EXTINF:321, Example Artist2 - Example title2
-C:\Files\My Music\Favorites\Example2.ogg
 
 
 #EXTM3U
 #EXTINF:0,NOW直播台
 https://wstreamks.now.com/originkey/Content/HLS/Live/Channel(hls_ch331)/Stream(02)/index.m3u8 
-NOW新闻台,https://wstreamks.now.com/originkey/Content/HLS/Live/Channel(hls_ch332)/Stream(03)/index.m3u8
-#EXTINF:0,NOW财经台,https://wstreamks.now.com/originkey/Content/HLS/Live/Channel(hls_ch333)/Stream(02)/index.m3u8
-VIUTV,https://wstreamks.now.com/originkey/Content/HLS/Live/Channel(hls_ch099)/Stream(04)/index.m3u8
-#EXTINF:0,NOW剧集台,https://wstreamks.now.com/originkey/Content/HLS/Live/Channel(hls_ch102)/Stream(04)/index.m3u8
-NOW华剧台,https://wstreamks.now.com/originkey/Content/HLS/Live/Channel(hls_ch105)/Stream(02)/index.m3u8
-#EXTINF:0,NowJelli,https://wstreamks.now.com/originkey/Content/HLS/Live/Channel(hls_ch108)/Stream(03)/index.m3u8
-Cartoon Network,https://wstreamks.now.com/originkey/Content/HLS/Live/Channel(hls_ch443)/index.m3u8
-#EXTINF:0,MTV LIVE HD香港,https://wstreamks.now.com/originkey/Content/HLS/Live/Channel(hls_ch505)/Stream(01)/index.m3u8
-華納電視頻道, https://wstreamks.now.com/originkey/Content/HLS/Live/Channel(hls_ch510)/Stream(03)/index.m3u8
-#EXTINF:0,AXN,https://wstreamks.now.com/originkey/Content/HLS/Live/Channel(hls_ch512)/Stream(03)/index.m3u8
-索尼台,https://wstreamks.now.com/originkey/Content/HLS/Live/Channel(hls_ch514)/Stream(03)/index.m3u8
-#EXTINF:0,RTL CBS Entertainment,https://wstreamks.now.com/originkey/Content/HLS/Live/Channel(hls_ch517)/Stream(03)/index.m3u8
-Lifetime,https://wstreamks.now.com/originkey/Content/HLS/Live/Channel(hls_ch525)/Stream(03)/index.m3u8
-#EXTINF:0,Food Network,https://wstreamks.now.com/originkey/Content/HLS/Live/Channel(hls_ch525)/Stream(03)/index.m3u8
-Premier League TV,https://wstreamks.now.com/originkey/Content/HLS/Live/Channel(hls_ch620)/Stream(03)/index.m3u8
-#EXTINF:0,BBC Earth,https://wstreamks.now.com/originkey/Content/HLS/Live/Channel(hls_ch220)/Stream(03)/index.m3u8
-國家地理悠人頻道,https://wstreamks.now.com/originkey/Content/HLS/Live/Channel(hls_ch217)/Stream(03)/index.m3u8
-#EXTINF:0,國家地理野生頻道,https://wstreamks.now.com/originkey/Content/HLS/Live/Channel(hls_ch216)/index.m3u8
-國家地理頻道,https://wstreamks.now.com/originkey/Content/HLS/Live/Channel(hls_ch215)/index.m3u8
-#EXTINF:0,Oh!K,https://wstreamks.now.com/originkey/Content/HLS/Live/Channel(hls_ch154)/index.m3u8
-GEM,https://wstreamks.now.com/originkey/Content/HLS/Live/Channel(hls_ch151)/Stream(03)/index.m3u8
-#EXTINF:0,HKC财经资讯台,http://61.18.0.107:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_chan_hls_se_idx=19&Provider_id=&Pcontent_id=index.m3u8
-HKC18台,http://61.18.0.107:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_chan_hls_se_idx=10&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:0,HKC球彩台,http://61.18.0.107:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_chan_hls_se_idx=11&Provider_id=&Pcontent_id=index.m3u8
-HKC201,http://61.18.0.107:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_chan_hls_se_idx=12&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:0,HKC202,http://61.18.0.107:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_chan_hls_se_idx=13&Provider_id=&Pcontent_id=index.m3u8
-HKC203,http://61.18.0.107:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_chan_hls_se_idx=14&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:0,HKC娱乐台,http://61.18.0.107:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_chan_hls_se_idx=15&Provider_id=&Pcontent_id=index.m3u8
-HKC新闻台,http://61.18.0.107:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_chan_hls_se_idx=17&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:0,HKC剧集台,http://61.18.0.107:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_chan_hls_se_idx=16&Provider_id=&Pcontent_id=index.m3u8
+#EXTINF:0,NOW新闻台
+https://wstreamks.now.com/originkey/Content/HLS/Live/Channel(hls_ch332)/Stream(03)/index.m3u8
+#EXTINF:0,NOW财经台
+https://wstreamks.now.com/originkey/Content/HLS/Live/Channel(hls_ch333)/Stream(02)/index.m3u8
+#EXTINF:0,VIUTV
+https://wstreamks.now.com/originkey/Content/HLS/Live/Channel(hls_ch099)/Stream(04)/index.m3u8
+#EXTINF:0,NOW剧集台
+https://wstreamks.now.com/originkey/Content/HLS/Live/Channel(hls_ch102)/Stream(04)/index.m3u8
+#EXTINF:0,NOW华剧台
+https://wstreamks.now.com/originkey/Content/HLS/Live/Channel(hls_ch105)/Stream(02)/index.m3u8
+#EXTINF:0,NowJelli
+https://wstreamks.now.com/originkey/Content/HLS/Live/Channel(hls_ch108)/Stream(03)/index.m3u8
+#EXTINF:0,Cartoon Network
+https://wstreamks.now.com/originkey/Content/HLS/Live/Channel(hls_ch443)/index.m3u8
+#EXTINF:0,MTV LIVE HD香港
+https://wstreamks.now.com/originkey/Content/HLS/Live/Channel(hls_ch505)/Stream(01)/index.m3u8
+#EXTINF:0,華納電視頻道
+https://wstreamks.now.com/originkey/Content/HLS/Live/Channel(hls_ch510)/Stream(03)/index.m3u8
+#EXTINF:0,AXN
+https://wstreamks.now.com/originkey/Content/HLS/Live/Channel(hls_ch512)/Stream(03)/index.m3u8
+#EXTINF:0,索尼台
+https://wstreamks.now.com/originkey/Content/HLS/Live/Channel(hls_ch514)/Stream(03)/index.m3u8
+#EXTINF:0,RTL CBS Entertainment
+https://wstreamks.now.com/originkey/Content/HLS/Live/Channel(hls_ch517)/Stream(03)/index.m3u8
+#EXTINF:0,Lifetime
+https://wstreamks.now.com/originkey/Content/HLS/Live/Channel(hls_ch525)/Stream(03)/index.m3u8
+#EXTINF:0,Food Network
+https://wstreamks.now.com/originkey/Content/HLS/Live/Channel(hls_ch525)/Stream(03)/index.m3u8
+#EXTINF:0,Premier League TV
+https://wstreamks.now.com/originkey/Content/HLS/Live/Channel(hls_ch620)/Stream(03)/index.m3u8
+#EXTINF:0,BBC Earth
+https://wstreamks.now.com/originkey/Content/HLS/Live/Channel(hls_ch220)/Stream(03)/index.m3u8
+#EXTINF:0,國家地理悠人頻道
+https://wstreamks.now.com/originkey/Content/HLS/Live/Channel(hls_ch217)/Stream(03)/index.m3u8
+#EXTINF:0,國家地理野生頻道
+https://wstreamks.now.com/originkey/Content/HLS/Live/Channel(hls_ch216)/index.m3u8
+#EXTINF:0,國家地理頻道
+https://wstreamks.now.com/originkey/Content/HLS/Live/Channel(hls_ch215)/index.m3u8
+#EXTINF:0,Oh!K
+
+https://wstreamks.now.com/originkey/Content/HLS/Live/Channel(hls_ch154)/index.m3u8
+#EXTINF:0,GEM
+https://wstreamks.now.com/originkey/Content/HLS/Live/Channel(hls_ch151)/Stream(03)/index.m3u8
+#EXTINF:0,HKC财经资讯台
+http://61.18.0.107:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_chan_hls_se_idx=19&Provider_id=&Pcontent_id=index.m3u8
+#EXTINF:0,HKC18台
+http://61.18.0.107:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_chan_hls_se_idx=10&Provider_id=&Pcontent_id=index.m3u8
+#EXTINF:0,HKC球彩台
+http://61.18.0.107:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_chan_hls_se_idx=11&Provider_id=&Pcontent_id=index.m3u8
+#EXTINF:0,HKC201
+http://61.18.0.107:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_chan_hls_se_idx=12&Provider_id=&Pcontent_id=index.m3u8
+#EXTINF:0,HKC202
+http://61.18.0.107:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_chan_hls_se_idx=13&Provider_id=&Pcontent_id=index.m3u8
+#EXTINF:0,HKC203
+http://61.18.0.107:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_chan_hls_se_idx=14&Provider_id=&Pcontent_id=index.m3u8
+#EXTINF:0,HKC娱乐台
+http://61.18.0.107:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_chan_hls_se_idx=15&Provider_id=&Pcontent_id=index.m3u8
+#EXTINF:0,HKC新闻台
+http://61.18.0.107:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_chan_hls_se_idx=17&Provider_id=&Pcontent_id=index.m3u8
+#EXTINF:0,HKC剧集台
+http://61.18.0.107:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_chan_hls_se_idx=16&Provider_id=&Pcontent_id=index.m3u8
 
