@@ -1,5 +1,13 @@
+
+#EXTINF:105, Example artist - Example title
+C:\Files\My Music\Example.mp3
+#EXTINF:321, Example Artist2 - Example title2
+C:\Files\My Music\Favorites\Example2.ogg
+
+
 #EXTM3U
-#EXTINF:0,NOW直播台,https://wstreamks.now.com/originkey/Content/HLS/Live/Channel(hls_ch331)/Stream(02)/index.m3u8 
+#EXTINF:0,NOW直播台
+https://wstreamks.now.com/originkey/Content/HLS/Live/Channel(hls_ch331)/Stream(02)/index.m3u8 
 NOW新闻台,https://wstreamks.now.com/originkey/Content/HLS/Live/Channel(hls_ch332)/Stream(03)/index.m3u8
 #EXTINF:0,NOW财经台,https://wstreamks.now.com/originkey/Content/HLS/Live/Channel(hls_ch333)/Stream(02)/index.m3u8
 VIUTV,https://wstreamks.now.com/originkey/Content/HLS/Live/Channel(hls_ch099)/Stream(04)/index.m3u8
