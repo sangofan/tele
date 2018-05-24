@@ -17,8 +17,12 @@ http://61.18.0.107:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_chan_hls_se
 http://61.18.0.107:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_chan_hls_se_idx=16&Provider_id=&Pcontent_id=index.m3u8
 #EXTINF:-1,HKC娱乐台
 http://61.18.0.107:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_chan_hls_se_idx=15&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1,ViuTV
+#EXTINF:-1,奇妙電視
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
+#EXTINF:-1,ViuTV99
 http://viutv99-i.akamaihd.net/hls/live/265284/live1/stream4/streamPlaylist.m3u8
+#EXTINF:-1,ViuTV96
+http://viutv96-i.akamaihd.net/hls/live/265285/live1/master.m3u8
 #EXTINF:-1,鳳凰香港台
 http://223.82.250.72/live/fhhongkong/1.m3u8
 #EXTINF:-1,鳳凰中文台
@@ -42,3 +46,25 @@ http://61.18.0.107:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_chan_hls_se
 #EXTINF:-1,HKC203
 http://61.18.0.107:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_chan_hls_se_idx=14&Provider_id=&Pcontent_id=index.m3u8
 
+
+#EXTINF:-1，香港電台第1台
+http://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/master.m3u8
+#EXTINF:-1，香港電台第2台
+http://rthkaudio2-lh.akamaihd.net/i/radio2_1@355865/master.m3u8
+#EXTINF:-1，香港電台第3台
+http://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/master.m3u8
+#EXTINF:-1，香港電台第4台
+http://rthkaudio4-lh.akamaihd.net/i/radio4_1@355867/master.m3u8
+#EXTINF:-1，香港電台第5台
+http://rthkaudio5-lh.akamaihd.net/i/radio5_1@355868/master.m3u8
+#EXTINF:-1,雷霆881
+http://d2agljdoug3z0j.cloudfront.net/radio-HTTP/cr1-hd.3gp/chunklist.m3u8
+#EXTINF:-1,叱咤903
+http://d2agljdoug3z0j.cloudfront.net/radio-HTTP/cr2-hd.3gp/chunklist.m3u8
+
+#EXTINF:-1,新城電台知訊997
+http://metroradio-lh.akamaihd.net/i/997_h@349799/master.m3u8
+#EXTINF:-1,新城電台財經104
+http://metroradio-lh.akamaihd.net/i/104_h@349798/master.m3u8
+#EXTINF:-1,新城電台Metro Plus AM1044
+http://metroradio-lh.akamaihd.net/i/1044_h@349800/master.m3u8
