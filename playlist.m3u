@@ -5,6 +5,8 @@
 
 #EXTINF:-1,翡翠台
 http://qqpullhls.inke.cn/live/1526032684303089.m3u8
+#EXTINF:-1,J2
+http://zbplay.tcgqxx.com/qxdq/5acd8943e99cf.m3u8
 #EXTINF:-1,明珠台
 http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=31
 #EXTINF:-1,TVB財經資訊台
@@ -41,13 +43,18 @@ http://live3.tdm.com.mo:1935/ch5/info_ch5.live/playlist.m3u8
 http://live3.tdm.com.mo:1935/ch4/sport_ch4.live/playlist.m3u8
 #EXTINF:-1,珠江電影
 http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=23
+#EXTINF:-1,HBO強檔
+http://iss01.ott.net.tw:8090/live/coship_DCTV2291445940028640_1200.m3u8
+#EXTINF:-1,衛視電影
+http://iss01.ott.net.tw:8090/live/coship_DCTV0001421917060555_1200.m3u8
 #EXTINF:-1,廣州影視
 http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=3
 #EXTINF:-1,香港衛視
 http://fms.cntv.lxdns.com/live/flv/channel84.flv
 #EXTINF:-1,亞太第一衛視
 http://v1.one-tv.com:1935/live/mpegts.stream/playlist.m3u8
-
+#EXTINF:-1,中天综合台
+http://210.201.54.102/glive/ctiall/chunklist_w1130092019.m3u8?st=1526180943822&token=NGFjYzZlZjk1NmMxMjg3YzhmMDFlMjJlNzIwMzYxY2E0ZjNiMjlmNA%3D%3D&imsi=2483222874&imei=864394102483221
 #EXTINF:-1,中天新聞
 http://210.201.54.102/glive2/tc-ctinews/chunklist_w163673859.m3u8?st=1522217482540&token=YWExZGJmZTVkMmNjNjFhN2ZjY2FkM2UxMzQ2MWY5YjJlY2FjNmRmZA%3D%3D
 
