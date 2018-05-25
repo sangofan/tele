@@ -7,6 +7,8 @@
 http://qqpullhls.inke.cn/live/1526032684303089.m3u8
 #EXTINF:-1,J2
 http://zbplay.tcgqxx.com/qxdq/5acd8943e99cf.m3u8
+#EXTINF:-1,無線新聞台
+http://edge26-1.edgeware.hk4.tvb.com/session/870730ae-6057-11e8-8610-005056b12cf7/dtysfd/newslive/smil:mobilehd_inews.smil/playlist.m3u8?token=ec876a3a27f879655e384d4934f877e9_1527365367_1527365367
 #EXTINF:-1,明珠台
 http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=31
 #EXTINF:-1,TVB財經資訊台
