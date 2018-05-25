@@ -4,7 +4,7 @@
 #EXTM3U
 
 #EXTINF:-1,翡翠台
-http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=30
+http://qqpullhls.inke.cn/live/1526032684303089.m3u8
 #EXTINF:-1,明珠台
 http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=31
 #EXTINF:-1,TVB財經資訊台
