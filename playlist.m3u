@@ -62,6 +62,8 @@ http://210.201.54.102/glive/ctiall/chunklist_w1130092019.m3u8?st=1526180943822&t
 #EXTINF:-1,中天新聞
 http://210.201.54.102/glive2/tc-ctinews/chunklist_w163673859.m3u8?st=1522217482540&token=YWExZGJmZTVkMmNjNjFhN2ZjY2FkM2UxMzQ2MWY5YjJlY2FjNmRmZA%3D%3D
 
+#EXTINF:-1,廣東體育
+http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=15
 #EXTINF:-1,HKC财经资讯台
 http://61.18.0.107:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_chan_hls_se_idx=19&Provider_id=&Pcontent_id=index.m3u8
 #EXTINF:-1,HKC18台
