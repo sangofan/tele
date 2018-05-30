@@ -45,6 +45,8 @@ http://live3.tdm.com.mo:1935/ch5/info_ch5.live/playlist.m3u8
 http://live3.tdm.com.mo:1935/ch4/sport_ch4.live/playlist.m3u8
 #EXTINF:-1,澳門蓮花
 rtmp://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c
+#EXTINF:-1,澳亞衛視
+http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=35
 #EXTINF:-1,珠江電影
 http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=23
 #EXTINF:-1,HBO強檔
@@ -55,6 +57,24 @@ http://iss01.ott.net.tw:8090/live/coship_DCTV0001421917060555_1200.m3u8
 rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
 #EXTINF:-1,廣州影視
 http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=3
+#EXTINF:-1,廣州台
+http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=01
+#EXTINF:-1,廣州新聞台
+http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=2
+#EXTINF:-1,珠江台
+http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=16
+#EXTINF:-1,廣州公共台
+http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=17
+#EXTINF:-1,南方衛視1
+http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=19
+#EXTINF:-1,南方衛視2
+http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=20
+#EXTINF:-1,南方衛視3
+http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=21
+#EXTINF:-1,廣東影視
+http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=22
+#EXTINF:-1,佛山公共
+http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=24
 #EXTINF:-1,香港衛視
 http://fms.cntv.lxdns.com/live/flv/channel84.flv
 #EXTINF:-1,亞太第一衛視
@@ -86,6 +106,8 @@ http://61.18.0.107:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_chan_hls_se
 #EXTINF:-1,HKC203
 http://61.18.0.107:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_chan_hls_se_idx=14&Provider_id=&Pcontent_id=index.m3u8
 
+#EXTINF:-1,CCTV1
+http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=11
 
 #EXTINF:-1，香港電台第1台
 http://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/master.m3u8
