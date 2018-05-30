@@ -4,11 +4,11 @@
 #EXTM3U
 
 #EXTINF:-1,翡翠台
-http://qqpullhls.inke.cn/live/1526032684303089.m3u8
+http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=30
 #EXTINF:-1,J2
 http://zbplay.tcgqxx.com/qxdq/5acd8943e99cf.m3u8
 #EXTINF:-1,無線新聞台
-http://edge26-1.edgeware.hk4.tvb.com/session/870730ae-6057-11e8-8610-005056b12cf7/dtysfd/newslive/smil:mobilehd_inews.smil/playlist.m3u8?token=ec876a3a27f879655e384d4934f877e9_1527365367_1527365367
+http://edge20-1.edgeware.hk4.tvb.com/session/4b7f43fa-63f9-11e8-97e6-005056b1026a/qh33qv/newslive/smil:mobilehd_inews.smil/playlist.m3u8?token=b3ac4d4b0f64144252c3fa56bd5dc5e5_1527764699_1527764699
 #EXTINF:-1,明珠台
 http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=31
 #EXTINF:-1,TVB財經資訊台
@@ -24,7 +24,7 @@ http://61.18.0.107:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_chan_hls_se
 #EXTINF:-1,奇妙電視
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #EXTINF:-1,ViuTV99
-http://viutv99-i.akamaihd.net/hls/live/265284/live1/stream4/streamPlaylist.m3u8
+http://viutv99-i.akamaihd.net/hls/live/265284/live1/master.m3u8
 #EXTINF:-1,ViuTV96
 http://viutv96-i.akamaihd.net/hls/live/265285/live1/master.m3u8
 #EXTINF:-1,鳳凰香港台
@@ -43,6 +43,8 @@ http://live4.tdm.com.mo/ch3/_definst_//ch3.live/playlist.m3u8
 http://live3.tdm.com.mo:1935/ch5/info_ch5.live/playlist.m3u8
 #EXTINF:-1,澳視體育
 http://live3.tdm.com.mo:1935/ch4/sport_ch4.live/playlist.m3u8
+#EXTINF:-1,澳門蓮花
+rtmp://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c
 #EXTINF:-1,珠江電影
 http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=23
 #EXTINF:-1,HBO強檔
@@ -59,6 +61,13 @@ http://fms.cntv.lxdns.com/live/flv/channel84.flv
 http://v1.one-tv.com:1935/live/mpegts.stream/playlist.m3u8
 #EXTINF:-1,中天综合台
 http://210.201.54.102/glive/ctiall/chunklist_w1130092019.m3u8?st=1526180943822&token=NGFjYzZlZjk1NmMxMjg3YzhmMDFlMjJlNzIwMzYxY2E0ZjNiMjlmNA%3D%3D&imsi=2483222874&imei=864394102483221
+
+#EXTINF:-1,台視
+rtmp://wv4.tp33.net/sat/tv071 
+#EXTINF:-1,中視
+rtmp://wv4.tp33.net/sat/tv091 
+#EXTINF:-1,華視
+rtmp://wv4.tp33.net/sat/tv111
 #EXTINF:-1,中天新聞
 http://210.201.54.102/glive2/tc-ctinews/chunklist_w163673859.m3u8?st=1522217482540&token=YWExZGJmZTVkMmNjNjFhN2ZjY2FkM2UxMzQ2MWY5YjJlY2FjNmRmZA%3D%3D
 
