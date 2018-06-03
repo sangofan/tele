@@ -91,6 +91,11 @@ rtmp://wv4.tp33.net/sat/tv111
 #EXTINF:-1,中天新聞
 http://210.201.54.102/glive2/tc-ctinews/chunklist_w163673859.m3u8?st=1522217482540&token=YWExZGJmZTVkMmNjNjFhN2ZjY2FkM2UxMzQ2MWY5YjJlY2FjNmRmZA%3D%3D
 
+#EXTINF:-1,民視 HD
+http://tv.two3.cn/Tv/L2tv?id=1
+
+#EXTINF:-1,HKC有线第一台
+p2p://185.212.201.60:6005/5a38da57000eb6df13bb95bd89f0c539
 
 #EXTINF:-1,廣東體育
 http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=15
