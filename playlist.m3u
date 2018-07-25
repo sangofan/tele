@@ -4,7 +4,8 @@
 #EXTM3U
 
 #EXTINF:-1,翡翠台
-http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=30
+http://192.168.8.10:9981/usr/bin/src/play/stream/service/8545f34f8eb4e986e9f4329292b763fb?title=Jade%20%2F%20TVB
+
 #EXTINF:-1,J2
 http://zbplay.tcgqxx.com/qxdq/5acd8943e99cf.m3u8
 #EXTINF:-1,無線新聞台
@@ -15,24 +16,14 @@ http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provi
 http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
 #EXTINF:-1,TVB娛樂新聞台
 http://token.tvb.com/stream/live/enews/hls/mobilehd_enews.smil
-#EXTINF:-1,HKC新闻台
-http://61.18.0.107:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_chan_hls_se_idx=17&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1,HKC剧集台
-http://61.18.0.107:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_chan_hls_se_idx=16&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1,HKC娱乐台
-http://61.18.0.107:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_chan_hls_se_idx=15&Provider_id=&Pcontent_id=index.m3u8
+
 #EXTINF:-1,奇妙電視
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #EXTINF:-1,ViuTV99
 http://viutv99-i.akamaihd.net/hls/live/265284/live1/master.m3u8
 #EXTINF:-1,ViuTV96
 http://viutv96-i.akamaihd.net/hls/live/265285/live1/master.m3u8
-#EXTINF:-1,鳳凰香港台
-http://223.82.250.72/live/fhhongkong/1.m3u8
-#EXTINF:-1,鳳凰中文台
-http://223.82.250.72/live/fhchinese/1.m3u8
-#EXTINF:-1,鳳凰資訊台
-http://223.82.250.72/live/fhzixun/1.m3u8
+
 #EXTINF:-1,澳視澳門
 http://live3.tdm.com.mo:1935/ch1/ch1.live/playlist.m3u8
 #EXTINF:-1,澳視高清
@@ -53,8 +44,7 @@ http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provi
 http://iss01.ott.net.tw:8090/live/coship_DCTV2291445940028640_1200.m3u8
 #EXTINF:-1,衛視電影
 http://iss01.ott.net.tw:8090/live/coship_DCTV0001421917060555_1200.m3u8
-#EXTINF:-1,鳳凰電影
-rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
+
 #EXTINF:-1,廣州影視
 http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=3
 #EXTINF:-1,廣州台
@@ -79,42 +69,18 @@ http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provi
 http://fms.cntv.lxdns.com/live/flv/channel84.flv
 #EXTINF:-1,亞太第一衛視
 http://v1.one-tv.com:1935/live/mpegts.stream/playlist.m3u8
-#EXTINF:-1,中天综合台
-http://210.201.54.102/glive/ctiall/chunklist_w1130092019.m3u8?st=1526180943822&token=NGFjYzZlZjk1NmMxMjg3YzhmMDFlMjJlNzIwMzYxY2E0ZjNiMjlmNA%3D%3D&imsi=2483222874&imei=864394102483221
 
-#EXTINF:-1,台視
-rtmp://wv4.tp33.net/sat/tv071 
-#EXTINF:-1,中視
-rtmp://wv4.tp33.net/sat/tv091 
-#EXTINF:-1,華視
-rtmp://wv4.tp33.net/sat/tv111
-#EXTINF:-1,中天新聞
-http://210.201.54.102/glive2/tc-ctinews/chunklist_w163673859.m3u8?st=1522217482540&token=YWExZGJmZTVkMmNjNjFhN2ZjY2FkM2UxMzQ2MWY5YjJlY2FjNmRmZA%3D%3D
-
-#EXTINF:-1,民視 HD
-http://tv.two3.cn/Tv/L2tv?id=1
-
-#EXTINF:-1,HKC有线第一台
-p2p://185.212.201.60:6005/5a38da57000eb6df13bb95bd89f0c539
 
 #EXTINF:-1,廣東體育
 http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=15
-#EXTINF:-1,HKC财经资讯台
-http://61.18.0.107:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_chan_hls_se_idx=19&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1,HKC18台
-http://61.18.0.107:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_chan_hls_se_idx=10&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1,HKC球彩台
-http://61.18.0.107:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_chan_hls_se_idx=11&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1,HKC201
-http://61.18.0.107:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_chan_hls_se_idx=12&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1,HKC202
-http://61.18.0.107:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_chan_hls_se_idx=13&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:-1,HKC203
-http://61.18.0.107:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_chan_hls_se_idx=14&Provider_id=&Pcontent_id=index.m3u8
+
 #EXTINF:-1,旅遊衛視
 http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=79
 #EXTINF:-1,CCTV1
 http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=11
+
+#EXTINF:-1,翡翠台 backup
+http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=30
 
 #EXTINF:-1,松視2台
 http://59.124.220.46:554/live/tv284198321.stream/index.m3u8
