@@ -1,24 +1,10 @@
 #EXTM3U
-#EXTINF:-1,翡翠台
-http://192.168.8.10:9981/usr/bin/src/play/stream/service/8545f34f8eb4e986e9f4329292b763fb?title=Jade%20%2F%20TVB
-
-#EXTINF:-1,J2
-http://zbplay.tcgqxx.com/qxdq/5acd8943e99cf.m3u8
-#EXTINF:-1,無線新聞台
-http://edge20-1.edgeware.hk4.tvb.com/session/4b7f43fa-63f9-11e8-97e6-005056b1026a/qh33qv/newslive/smil:mobilehd_inews.smil/playlist.m3u8?token=b3ac4d4b0f64144252c3fa56bd5dc5e5_1527764699_1527764699
-#EXTINF:-1,明珠台
-http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=31
-#EXTINF:-1,TVB財經資訊台
-http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
+#EXTINF:-1,奇妙電視
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #EXTINF:-1,TVB娛樂新聞台
 http://token.tvb.com/stream/live/enews/hls/mobilehd_enews.smil
 
-#EXTINF:-1,奇妙電視
-http://media.fantv.hk/m3u8/archive/channel2.m3u8
-#EXTINF:-1,ViuTV99
-http://viutv99-i.akamaihd.net/hls/live/265284/live1/master.m3u8
-#EXTINF:-1,ViuTV96
-http://viutv96-i.akamaihd.net/hls/live/265285/live1/master.m3u8
+
 
 #EXTINF:-1,澳視澳門
 http://live3.tdm.com.mo:1935/ch1/ch1.live/playlist.m3u8
@@ -43,10 +29,6 @@ http://iss01.ott.net.tw:8090/live/coship_DCTV0001421917060555_1200.m3u8
 
 #EXTINF:-1,廣州影視
 http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=3
-#EXTINF:-1,廣州台
-http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=01
-#EXTINF:-1,廣州新聞台
-http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=2
 #EXTINF:-1,珠江台
 http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=16
 #EXTINF:-1,廣州公共台
@@ -63,12 +45,6 @@ http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provi
 http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=24
 #EXTINF:-1,香港衛視
 http://fms.cntv.lxdns.com/live/flv/channel84.flv
-#EXTINF:-1,亞太第一衛視
-http://v1.one-tv.com:1935/live/mpegts.stream/playlist.m3u8
-
-
-#EXTINF:-1,廣東體育
-http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=15
 
 #EXTINF:-1,旅遊衛視
 http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=79
@@ -77,6 +53,16 @@ http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provi
 
 #EXTINF:-1,翡翠台 backup
 http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=30
+#EXTINF:-1,明珠台 backup
+http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=31
+#EXTINF:-1,TVB財經資訊台 backup
+http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
+
+#EXTINF:-1,ViuTV99 backup
+http://viutv99-i.akamaihd.net/hls/live/265284/live1/master.m3u8
+#EXTINF:-1,ViuTV96 backup
+http://viutv96-i.akamaihd.net/hls/live/265285/live1/master.m3u8
+
 
 #EXTINF:-1,松視2台
 http://59.124.220.46:554/live/tv284198321.stream/index.m3u8
