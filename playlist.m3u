@@ -5,12 +5,12 @@ http://media.fantv.hk/m3u8/archive/channel2.m3u8
 http://ottproxy1.mott.tv/livehls/MOB-SCC/index.m3u8?token=128c23e3733abd26b35145f59b2bf86f94e726a5ceeaa96ea0139b483cb2ae928efd5679243064b8904e1fcd84b2cddb&sessionID=suBYLNfg49z4
 #EXTINF:-1,有線財經資訊台
 http://ottproxy1.mott.tv/livehls/MOB-NGW/index.m3u8?token=128c23e3733abd26b35145f59b2bf86f94e726a5ceeaa96ea0139b483cb2ae928efd5679243064b8904e1fcd84b2cddb&sessionID=suBYLNfg49z4
-#EXTINF:-1, TVB功夫台
+#EXTINF:-1,TVB功夫台
 http://hls.liveplay.myqcloud.com/live/tvbkf.m3u8
-#EXTINF:-1,TVB娛樂新聞台
+#EXTINF:-1,娛樂新聞台
 http://token.tvb.com/stream/live/enews/hls/mobilehd_enews.smil
-
-
+#EXTINF:-1,Astro喜悅台
+http://103.89.176.45:8278/Xiyue/playlist.m3u8
 
 #EXTINF:-1,澳視澳門
 http://live3.tdm.com.mo:1935/ch1/ch1.live/playlist.m3u8
