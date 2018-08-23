@@ -15,7 +15,8 @@ http://hls.liveplay.myqcloud.com/live/tvbkf.m3u8
 http://token.tvb.com/stream/live/enews/hls/mobilehd_enews.smil
 #EXTINF:-1,Astro喜悅台
 http://103.89.176.45:8278/Xiyue/playlist.m3u8
-
+#EXTINF:-1, GoodTV旅遊生活台
+http://live.streamingfast.net/osmflivech14.m3u8
 #EXTINF:-1,澳視澳門
 http://live3.tdm.com.mo:1935/ch1/ch1.live/playlist.m3u8
 #EXTINF:-1,澳視高清
