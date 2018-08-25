@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,翡翠台
-http://pulllive-al.wasu.cn/live/3bd14df20ed1463dee276b6bfabcd83b.m3u8
+http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=30&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV+jCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO
 #EXTINF:-1,ViuTV
 http://viutv99-i.akamaihd.net/hls/live/265284/live1/master.m3u8
 #EXTINF:-1,ViuTV96
