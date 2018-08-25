@@ -1,6 +1,10 @@
 #EXTM3U
-#EXTINF:-1,奇妙電視
-http://media.fantv.hk/m3u8/archive/channel2.m3u8
+#EXTINF:-1,翡翠台
+http://live-dft-hls-yf.jstv.com/live/ch0001/online.m3u8
+#EXTINF:-1,ViuTV
+http://viutv99-i.akamaihd.net/hls/live/265284/live1/master.m3u8
+#EXTINF:-1,ViuTV96
+http://viutv96-i.akamaihd.net/hls/live/265285/live1/master.m3u8
 #EXTINF:-1,有線新聞台
 http://ottproxy1.mott.tv/livehls/MOB-SCC/index.m3u8?token=128c23e3733abd26b35145f59b2bf86f94e726a5ceeaa96ea0139b483cb2ae928efd5679243064b8904e1fcd84b2cddb&sessionID=suBYLNfg49z4
 #EXTINF:-1,有線財經資訊台
@@ -40,18 +44,12 @@ http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/
 http://al.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1.m3u8
 #EXTINF:-1, 電影頻道 2
 http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8
-#EXTINF:-1, 電影頻道 3
-http://aldirect.hls.huya.com/huyalive/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1_1200.m3u8
+
 #EXTINF:-1, 電影頻道 4
 http://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1_1200.m3u8
 #EXTINF:-1, 中天新聞
 http://60.199.188.61/HLS/WG_ETTV-N/index.m3u8
-#EXTINF:-1, 民視HD
-http://125.227.35.176:18080/ftv/index.m3u8
-#EXTINF:-1, 台視HD
-http://125.227.35.176:18080/CTS/index.m3u8
-#EXTINF:-1, 三立台灣台
-http://125.227.35.176:18080/set/index.m3u8
+
 #EXTINF:-1, 東森電影
 http://27.155.88.221:18080/ETChan1/index.m3u8
 #EXTINF:-1,廣州影視
@@ -84,11 +82,9 @@ http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provi
 http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=31
 #EXTINF:-1,TVB財經資訊台 backup
 http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
+#EXTINF:-1,奇妙電視 backup
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
 
-#EXTINF:-1,ViuTV99 backup
-http://viutv99-i.akamaihd.net/hls/live/265284/live1/master.m3u8
-#EXTINF:-1,ViuTV96 backup
-http://viutv96-i.akamaihd.net/hls/live/265285/live1/master.m3u8
 
 
 #EXTINF:-1,松視2台
