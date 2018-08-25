@@ -1,7 +1,6 @@
 #EXTM3U
 #EXTINF:-1,翡翠台
-http://120.198.235.68/103.89.176.45:8278/Jade/playlist.m3u8
-
+http://pulllive-al.wasu.cn/live/3bd14df20ed1463dee276b6bfabcd83b.m3u8
 #EXTINF:-1,ViuTV
 http://viutv99-i.akamaihd.net/hls/live/265284/live1/master.m3u8
 #EXTINF:-1,ViuTV96
