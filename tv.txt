@@ -1,0 +1,12 @@
+港台31, http://192.168.1.4:9981/usr/bin/src/stream/channelid/13846874?ticket=99ccf4ab7c8af9b4a98e279f8390efaaf6a8f3ba&profile=pass
+港台32, http://192.168.1.4:9981/usr/bin/src/stream/channelid/1793661939?ticket=bddc2142756ee74dceb50fb8cc10e44cf97f4454&profile=pass
+CCTV1, http://192.168.1.4:9981/usr/bin/src/stream/channelid/1558856924?ticket=609c55eee2dc42af7eb8b8c96420ab6376fa73f7&profile=pass
+HKIBC, http://192.168.1.4:9981/usr/bin/src/stream/channelid/220339553?ticket=bfcdb166425e30251b4c5c017eedcde904bffe25&profile=pass
+奇妙电视, http://192.168.1.4:9981/usr/bin/src/stream/channelid/473878051?ticket=90cc3932d4ecae00b8179d907439679ac7a1c852&profile=pass
+翡翠台, http://192.168.1.4:9981/usr/bin/src/stream/channelid/752352560?ticket=0d0ab846afd7ca7c04f49f1e049589b74f8e22f4&profile=pass
+J2, http://192.168.1.4:9981/usr/bin/src/stream/channelid/1981960869?ticket=bffb080aacd97bba9fb08b89b4d29a357e1ec7c1&profile=pass
+無線新聞台, http://192.168.1.4:9981/usr/bin/src/stream/channelid/1844637296?ticket=61e9c8d171ad5d31f7346a78ddc5383247ca3611&profile=pass
+明珠台, http://192.168.1.4:9981/usr/bin/src/stream/channelid/801393036?ticket=9d5f559fe4b36792eee5f134ce625268e6deae43&profile=pass
+無線財經資訊台, http://192.168.1.4:9981/usr/bin/src/stream/channelid/7996454?ticket=ad0f0e92bbaf68374a4b03de4e761d26c03931f3&profile=pass
+ViuTVsix, http://192.168.1.4:9981/usr/bin/src/stream/channelid/481015791?ticket=4386dcc718b145843625a4aa056bb6b65b51f3ca&profile=pass
+ViuTV, http://192.168.1.4:9981/usr/bin/src/stream/channelid/543439207?ticket=55d946d6e57a1e5150bcee2e5783876d849032ee&profile=pass
