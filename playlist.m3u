@@ -26,15 +26,31 @@ rtmp://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c
 http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8
 #EXTINF:-1, 電影頻道 2
 http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8
+#EXTINF:-1,CHC動作電影
+http://www.yuniptv.cn/gw/iptv3721/?tid=itv&xl=0&id=8
+#EXTINF:-1,CHC高清電影
+http://www.yuniptv.cn/gw/iptv3721/?tid=itv&xl=0&id=9
+#EXTINF:-1,CHC家庭影院
+http://www.yuniptv.cn/gw/iptv3721/?tid=itv&xl=0&id=10
+#EXTINF:-1,廣東體育
+http://www.yuniptv.cn/gw/iptv3721/?tid=itv&xl=0&id=14
+#EXTINF:-1,CCTV5
+http://www.yuniptv.cn/gw/iptv3721/?tid=itv&xl=0&id=19
+#EXTINF:-1,電影台4
+http://www.yuniptv.cn/gw/iptv3721/?tid=gt&xl=0&id=4
 
 #EXTINF:-1,翡翠台 backup
-http://www.yuniptv.cn/gw/iptv3721/?tid=itv&xl=0&id=1
+http://www.yuniptv.cn/gw/iptv3721/?tid=gt&xl=0&id=1
 #EXTINF:-1,J2 backup
-http://www.yuniptv.cn/gw/iptv3721/?tid=itv&xl=0&id=12
+http://www.yuniptv.cn/gw/iptv3721/?tid=gt&xl=0&id=10
 #EXTINF:-1,無線新聞台 backup
-http://www.yuniptv.cn/gw/iptv3721/?tid=itv&xl=0&id=9
+http://www.yuniptv.cn/gw/iptv3721/?tid=gt&xl=0&id=8
 #EXTINF:-1,明珠台 backup
-http://www.yuniptv.cn/gw/iptv3721/?tid=itv&xl=0&id=13
+http://www.yuniptv.cn/gw/iptv3721/?tid=gt&xl=0&id=6
+#EXTINF:-1,RTHK31 backup
+http://www.yuniptv.cn/gw/iptv3721/?tid=gt&xl=0&id=17
+#EXTINF:-1,RTHK32 backup
+http://www.yuniptv.cn/gw/iptv3721/?tid=gt&xl=0&id=18
 #EXTINF:-1,ViuTV backup
 http://viutv99-i.akamaihd.net/hls/live/265284/live1/master.m3u8
 #EXTINF:-1,ViuTV96 backup
