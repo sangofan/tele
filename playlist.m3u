@@ -27,7 +27,14 @@ http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/
 #EXTINF:-1, 電影頻道 2
 http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8
 
-
+#EXTINF:-1,翡翠台 backup
+http://www.yuniptv.cn/gw/iptv3721/?tid=itv&xl=0&id=1
+#EXTINF:-1,J2 backup
+http://www.yuniptv.cn/gw/iptv3721/?tid=itv&xl=0&id=12
+#EXTINF:-1,無線新聞台 backup
+http://www.yuniptv.cn/gw/iptv3721/?tid=itv&xl=0&id=9
+#EXTINF:-1,明珠台 backup
+http://www.yuniptv.cn/gw/iptv3721/?tid=itv&xl=0&id=13
 #EXTINF:-1,ViuTV backup
 http://viutv99-i.akamaihd.net/hls/live/265284/live1/master.m3u8
 #EXTINF:-1,ViuTV96 backup
