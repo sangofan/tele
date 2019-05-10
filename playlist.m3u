@@ -7,6 +7,9 @@ http://ottproxy1.mott.tv/livehls/MOB-NGW/index.m3u8?token=128c23e3733abd26b35145
 #EXTINF:-1,娛樂新聞台
 http://token.tvb.com/stream/live/enews/hls/mobilehd_enews.smil
 
+#EXTINF:-1,鳳凰衛視香港
+http://www.yuniptv.cn/gw/iptv3721/?tid=itv&xl=0&id=4
+
 #EXTINF:-1,澳視澳門
 http://live3.tdm.com.mo:1935/ch1/ch1.live/playlist.m3u8
 #EXTINF:-1,澳視高清
