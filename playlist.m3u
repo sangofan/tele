@@ -10,12 +10,9 @@ http://ottproxy1.mott.tv/livehls/MOB-SCC/index.m3u8?token=128c23e3733abd26b35145
 #EXTINF:-1,有線財經資訊台
 http://ottproxy1.mott.tv/livehls/MOB-NGW/index.m3u8?token=128c23e3733abd26b35145f59b2bf86f94e726a5ceeaa96ea0139b483cb2ae928efd5679243064b8904e1fcd84b2cddb&sessionID=suBYLNfg49z4
 
-#EXTINF:-1,TVB功夫台
-http://hls.liveplay.myqcloud.com/live/tvbkf.m3u8
 #EXTINF:-1,娛樂新聞台
 http://token.tvb.com/stream/live/enews/hls/mobilehd_enews.smil
-#EXTINF:-1,Astro喜悅台
-http://103.89.176.45:8278/Xiyue/playlist.m3u8
+
 
 #EXTINF:-1,澳視澳門
 http://live3.tdm.com.mo:1935/ch1/ch1.live/playlist.m3u8
@@ -29,30 +26,14 @@ http://live3.tdm.com.mo:1935/ch5/info_ch5.live/playlist.m3u8
 http://live3.tdm.com.mo:1935/ch4/sport_ch4.live/playlist.m3u8
 #EXTINF:-1,澳門蓮花
 rtmp://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c
-#EXTINF:-1,澳亞衛視
-http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=35
-#EXTINF:-1,珠江電影
-http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=23
-#EXTINF:-1,HBO強檔
-http://iss01.ott.net.tw:8090/live/coship_DCTV2291445940028640_1200.m3u8
-#EXTINF:-1,衛視電影
-http://iss01.ott.net.tw:8090/live/coship_DCTV0001421917060555_1200.m3u8
+
 
 #EXTINF:-1, 天映頻道
 http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8
-#EXTINF:-1, 電影頻道 1
-http://al.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1.m3u8
+
 #EXTINF:-1, 電影頻道 2
 http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1, 電影頻道 4
-http://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1_1200.m3u8
-#EXTINF:-1, 中天新聞
-http://60.199.188.61/HLS/WG_ETTV-N/index.m3u8
-#EXTINF:-1, 三立都會台
-http://60.250.23.14:18080/setcity/index.m3u8
-#EXTINF:-1, 東森電影
-http://27.155.88.221:18080/ETChan1/index.m3u8
 #EXTINF:-1,廣州影視
 http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=3
 #EXTINF:-1,珠江台
