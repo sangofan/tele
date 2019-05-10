@@ -1,18 +1,11 @@
 #EXTM3U
-#EXTINF:-1,翡翠台
-http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=30&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV+jCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO
-#EXTINF:-1,ViuTV
-http://viutv99-i.akamaihd.net/hls/live/265284/live1/master.m3u8
-#EXTINF:-1,ViuTV96
-http://viutv96-i.akamaihd.net/hls/live/265285/live1/master.m3u8
+
 #EXTINF:-1,有線新聞台
 http://ottproxy1.mott.tv/livehls/MOB-SCC/index.m3u8?token=128c23e3733abd26b35145f59b2bf86f94e726a5ceeaa96ea0139b483cb2ae928efd5679243064b8904e1fcd84b2cddb&sessionID=suBYLNfg49z4
 #EXTINF:-1,有線財經資訊台
 http://ottproxy1.mott.tv/livehls/MOB-NGW/index.m3u8?token=128c23e3733abd26b35145f59b2bf86f94e726a5ceeaa96ea0139b483cb2ae928efd5679243064b8904e1fcd84b2cddb&sessionID=suBYLNfg49z4
-
 #EXTINF:-1,娛樂新聞台
 http://token.tvb.com/stream/live/enews/hls/mobilehd_enews.smil
-
 
 #EXTINF:-1,澳視澳門
 http://live3.tdm.com.mo:1935/ch1/ch1.live/playlist.m3u8
@@ -26,20 +19,18 @@ http://live3.tdm.com.mo:1935/ch5/info_ch5.live/playlist.m3u8
 http://live3.tdm.com.mo:1935/ch4/sport_ch4.live/playlist.m3u8
 #EXTINF:-1,澳門蓮花
 rtmp://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c
-
-
 #EXTINF:-1, 天映頻道
 http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8
-
 #EXTINF:-1, 電影頻道 2
 http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8
 
 
-
-
+#EXTINF:-1,ViuTV backup
+http://viutv99-i.akamaihd.net/hls/live/265284/live1/master.m3u8
+#EXTINF:-1,ViuTV96 backup
+http://viutv96-i.akamaihd.net/hls/live/265285/live1/master.m3u8
 #EXTINF:-1,TVB財經資訊台 backup
 http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
-
 #EXTINF:-1,香港開電視 backup
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
 
@@ -58,7 +49,6 @@ http://rthkaudio5-lh.akamaihd.net/i/radio5_1@355868/master.m3u8
 http://d2agljdoug3z0j.cloudfront.net/radio-HTTP/cr1-hd.3gp/chunklist.m3u8
 #EXTINF:-1,叱咤903
 http://d2agljdoug3z0j.cloudfront.net/radio-HTTP/cr2-hd.3gp/chunklist.m3u8
-
 #EXTINF:-1,新城電台知訊997
 http://metroradio-lh.akamaihd.net/i/997_h@349799/master.m3u8
 #EXTINF:-1,新城電台財經104
