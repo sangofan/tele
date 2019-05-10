@@ -1,5 +1,18 @@
 #EXTM3U
 
+HBO HD
+http://www.yuniptv.cn/gw/iptv3721/?tid=gt&xl=0&id=22
+HBO2
+http://www.yuniptv.cn/gw/iptv3721/?tid=gt&xl=0&id=23
+Discovery Asia
+http://www.yuniptv.cn/gw/iptv3721/?tid=gt&xl=0&id=25
+有線新聞台HD
+http://www.yuniptv.cn/gw/iptv3721/?tid=gt&xl=0&id=26
+有線體育2台
+http://www.yuniptv.cn/gw/iptv3721/?tid=gt&xl=0&id=27
+有線體育台
+http://www.yuniptv.cn/gw/iptv3721/?tid=gt&xl=0&id=28
+
 #EXTINF:-1,有線新聞台
 http://ottproxy1.mott.tv/livehls/MOB-SCC/index.m3u8?token=128c23e3733abd26b35145f59b2bf86f94e726a5ceeaa96ea0139b483cb2ae928efd5679243064b8904e1fcd84b2cddb&sessionID=suBYLNfg49z4
 #EXTINF:-1,有線財經資訊台
@@ -39,8 +52,6 @@ http://www.yuniptv.cn/gw/iptv3721/?tid=itv&xl=0&id=19
 #EXTINF:-1,電影台4
 http://www.yuniptv.cn/gw/iptv3721/?tid=gt&xl=0&id=4
 
-#EXTINF:-1,翡翠台 backup
-http://www.yuniptv.cn/gw/iptv3721/?tid=gt&xl=0&id=1
 #EXTINF:-1,J2 backup
 http://www.yuniptv.cn/gw/iptv3721/?tid=gt&xl=0&id=10
 #EXTINF:-1,無線新聞台 backup
