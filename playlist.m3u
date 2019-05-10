@@ -34,46 +34,14 @@ http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/
 #EXTINF:-1, 電影頻道 2
 http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1,廣州影視
-http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=3
-#EXTINF:-1,珠江台
-http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=16
-#EXTINF:-1,廣州公共台
-http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=17
-#EXTINF:-1,南方衛視1
-http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=19
-#EXTINF:-1,南方衛視2
-http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=20
-#EXTINF:-1,南方衛視3
-http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=21
-#EXTINF:-1,廣東影視
-http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=22
-#EXTINF:-1,佛山公共
-http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=24
-#EXTINF:-1,香港衛視
-http://fms.cntv.lxdns.com/live/flv/channel84.flv
 
-#EXTINF:-1,旅遊衛視
-http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=79
-#EXTINF:-1,CCTV1
-http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=11
 
-#EXTINF:-1,翡翠台 backup
-http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=30
-#EXTINF:-1,明珠台 backup
-http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=31
+
 #EXTINF:-1,TVB財經資訊台 backup
 http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
-#EXTINF:-1,奇妙電視 backup
+
+#EXTINF:-1,香港開電視 backup
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
-#EXTINF:-1,翡翠台J backup
-http://live-dft-hls-yf.jstv.com/live/ch0001/online.m3u8
-
-#EXTINF:-1,J2 backup
-http://120.198.235.68/103.89.176.45:8278/J2/playlist.m3u8
-
-#EXTINF:-1,松視2台
-http://59.124.220.46:554/live/tv284198321.stream/index.m3u8
 
 
 #EXTINF:-1，香港電台第1台
