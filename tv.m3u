@@ -23,3 +23,131 @@ http://192.168.1.4:9981/usr/bin/src/stream/channelid/7996454?ticket=ad0f0e92bbaf
 http://192.168.1.4:9981/usr/bin/src/stream/channelid/481015791?ticket=4386dcc718b145843625a4aa056bb6b65b51f3ca&profile=pass
 #EXTINF:0,ViuTV
 http://192.168.1.4:9981/usr/bin/src/stream/channelid/543439207?ticket=55d946d6e57a1e5150bcee2e5783876d849032ee&profile=pass
+
+
+
+#EXTINF:-1,有線新聞台HD
+http://www.yuniptv.cn/gw/iptv3721/?tid=gt&xl=0&id=26
+#EXTINF:-1,有線劇集台
+http://www.yuniptv.cn/gw/iptv3721/?tid=gt&xl=0&id=29
+#EXTINF:-1,HBO HD
+http://www.yuniptv.cn/gw/iptv3721/?tid=gt&xl=0&id=22
+#EXTINF:-1,HBO2
+http://www.yuniptv.cn/gw/iptv3721/?tid=gt&xl=0&id=23
+#EXTINF:-1,Discovery Asia
+http://www.yuniptv.cn/gw/iptv3721/?tid=gt&xl=0&id=25
+
+#EXTINF:-1,Star Movies
+http://www.yuniptv.cn/gw/iptv3721/?tid=gt&xl=0&id=33
+#EXTINF:-1,BBC Earth
+http://www.yuniptv.cn/gw/iptv3721/?tid=gt&xl=0&id=78
+#EXTINF:-1,Cinemax
+http://www.yuniptv.cn/gw/iptv3721/?tid=gt&xl=0&id=81
+#EXTINF:-1,National Geographic
+http://www.yuniptv.cn/gw/iptv3721/?tid=gt&xl=0&id=86
+#EXTINF:-1,經典台
+http://www.yuniptv.cn/gw/iptv3721/?tid=gt&xl=0&id=30
+#EXTINF:-1,三立都會台
+http://www.yuniptv.cn/gw/iptv3721/?tid=gt&xl=0&id=35
+#EXTINF:-1,東森超視HD
+http://www.yuniptv.cn/gw/iptv3721/?tid=gt&xl=0&id=49
+#EXTINF:-1,東森綜合HD
+http://www.yuniptv.cn/gw/iptv3721/?tid=gt&xl=0&id=50
+#EXTINF:-1,東森洋片HD
+http://www.yuniptv.cn/gw/iptv3721/?tid=gt&xl=0&id=52
+#EXTINF:-1,中天綜合
+http://www.yuniptv.cn/gw/iptv3721/?tid=gt&xl=0&id=57
+#EXTINF:-1,中視
+http://www.yuniptv.cn/gw/iptv3721/?tid=gt&xl=0&id=59
+#EXTINF:-1,台視
+http://www.yuniptv.cn/gw/iptv3721/?tid=gt&xl=0&id=60
+#EXTINF:-1,華視
+http://www.yuniptv.cn/gw/iptv3721/?tid=gt&xl=0&id=63
+
+
+#EXTINF:-1,有線體育2台
+http://www.yuniptv.cn/gw/iptv3721/?tid=gt&xl=0&id=27
+#EXTINF:-1,有線體育台
+http://www.yuniptv.cn/gw/iptv3721/?tid=gt&xl=0&id=28
+
+
+#EXTINF:-1,鳳凰衛視香港
+http://www.yuniptv.cn/gw/iptv3721/?tid=itv&xl=0&id=3
+
+#EXTINF:-1,澳視澳門
+http://live3.tdm.com.mo:1935/ch1/ch1.live/playlist.m3u8
+#EXTINF:-1,澳視高清
+http://live3.tdm.com.mo:1935/ch6/hd_ch6.live/playlist.m3u8
+#EXTINF:-1,澳門Macau
+http://live4.tdm.com.mo/ch3/_definst_//ch3.live/playlist.m3u8
+#EXTINF:-1,澳門資訊
+http://live3.tdm.com.mo:1935/ch5/info_ch5.live/playlist.m3u8
+#EXTINF:-1,澳視體育
+http://live3.tdm.com.mo:1935/ch4/sport_ch4.live/playlist.m3u8
+#EXTINF:-1,澳門蓮花
+rtmp://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c
+#EXTINF:-1, 天映頻道
+http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8
+#EXTINF:-1, 電影頻道 2
+http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8
+#EXTINF:-1,CHC動作電影
+http://www.yuniptv.cn/gw/iptv3721/?tid=itv&xl=0&id=8
+#EXTINF:-1,CHC高清電影
+http://www.yuniptv.cn/gw/iptv3721/?tid=itv&xl=0&id=9
+#EXTINF:-1,CHC家庭影院
+http://www.yuniptv.cn/gw/iptv3721/?tid=itv&xl=0&id=10
+#EXTINF:-1,廣東體育
+http://www.yuniptv.cn/gw/iptv3721/?tid=itv&xl=0&id=14
+#EXTINF:-1,CCTV5
+http://www.yuniptv.cn/gw/iptv3721/?tid=itv&xl=0&id=19
+#EXTINF:-1,電影台4
+http://www.yuniptv.cn/gw/iptv3721/?tid=gt&xl=0&id=4
+
+#EXTINF:-1,有線新聞台
+http://ottproxy1.mott.tv/livehls/MOB-SCC/index.m3u8?token=128c23e3733abd26b35145f59b2bf86f94e726a5ceeaa96ea0139b483cb2ae928efd5679243064b8904e1fcd84b2cddb&sessionID=suBYLNfg49z4
+#EXTINF:-1,有線財經資訊台
+http://ottproxy1.mott.tv/livehls/MOB-NGW/index.m3u8?token=128c23e3733abd26b35145f59b2bf86f94e726a5ceeaa96ea0139b483cb2ae928efd5679243064b8904e1fcd84b2cddb&sessionID=suBYLNfg49z4
+#EXTINF:-1,娛樂新聞台
+http://token.tvb.com/stream/live/enews/hls/mobilehd_enews.smil
+
+
+#EXTINF:-1,J2 backup
+http://www.yuniptv.cn/gw/iptv3721/?tid=gt&xl=0&id=10
+#EXTINF:-1,無線新聞台 backup
+http://www.yuniptv.cn/gw/iptv3721/?tid=gt&xl=0&id=8
+#EXTINF:-1,明珠台 backup
+http://www.yuniptv.cn/gw/iptv3721/?tid=gt&xl=0&id=6
+#EXTINF:-1,RTHK31 backup
+http://www.yuniptv.cn/gw/iptv3721/?tid=gt&xl=0&id=17
+#EXTINF:-1,RTHK32 backup
+http://www.yuniptv.cn/gw/iptv3721/?tid=gt&xl=0&id=18
+#EXTINF:-1,ViuTV backup
+http://viutv99-i.akamaihd.net/hls/live/265284/live1/master.m3u8
+#EXTINF:-1,ViuTV96 backup
+http://viutv96-i.akamaihd.net/hls/live/265285/live1/master.m3u8
+#EXTINF:-1,TVB財經資訊台 backup
+http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
+#EXTINF:-1,香港開電視 backup
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
+
+
+#EXTINF:-1，香港電台第1台
+http://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/master.m3u8
+#EXTINF:-1，香港電台第2台
+http://rthkaudio2-lh.akamaihd.net/i/radio2_1@355865/master.m3u8
+#EXTINF:-1，香港電台第3台
+http://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/master.m3u8
+#EXTINF:-1，香港電台第4台
+http://rthkaudio4-lh.akamaihd.net/i/radio4_1@355867/master.m3u8
+#EXTINF:-1，香港電台第5台
+http://rthkaudio5-lh.akamaihd.net/i/radio5_1@355868/master.m3u8
+#EXTINF:-1,雷霆881
+http://d2agljdoug3z0j.cloudfront.net/radio-HTTP/cr1-hd.3gp/chunklist.m3u8
+#EXTINF:-1,叱咤903
+http://d2agljdoug3z0j.cloudfront.net/radio-HTTP/cr2-hd.3gp/chunklist.m3u8
+#EXTINF:-1,新城電台知訊997
+http://metroradio-lh.akamaihd.net/i/997_h@349799/master.m3u8
+#EXTINF:-1,新城電台財經104
+http://metroradio-lh.akamaihd.net/i/104_h@349798/master.m3u8
+#EXTINF:-1,新城電台Metro Plus AM1044
+http://metroradio-lh.akamaihd.net/i/1044_h@349800/master.m3u8
