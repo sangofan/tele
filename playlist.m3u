@@ -1,16 +1,16 @@
 #EXTM3U
 
-HBO HD
+#EXTINF:-1,HBO HD
 http://www.yuniptv.cn/gw/iptv3721/?tid=gt&xl=0&id=22
-HBO2
+#EXTINF:-1,HBO2
 http://www.yuniptv.cn/gw/iptv3721/?tid=gt&xl=0&id=23
-Discovery Asia
+#EXTINF:-1,Discovery Asia
 http://www.yuniptv.cn/gw/iptv3721/?tid=gt&xl=0&id=25
-有線新聞台HD
+#EXTINF:-1,有線新聞台HD
 http://www.yuniptv.cn/gw/iptv3721/?tid=gt&xl=0&id=26
-有線體育2台
+#EXTINF:-1,有線體育2台
 http://www.yuniptv.cn/gw/iptv3721/?tid=gt&xl=0&id=27
-有線體育台
+#EXTINF:-1,有線體育台
 http://www.yuniptv.cn/gw/iptv3721/?tid=gt&xl=0&id=28
 
 #EXTINF:-1,有線新聞台
