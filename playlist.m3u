@@ -8,22 +8,34 @@ http://www.yuniptv.cn/gw/iptv3721/?tid=gt&xl=0&id=23
 http://www.yuniptv.cn/gw/iptv3721/?tid=gt&xl=0&id=25
 #EXTINF:-1,有線新聞台HD
 http://www.yuniptv.cn/gw/iptv3721/?tid=gt&xl=0&id=26
-
-有線劇集台
+#EXTINF:-1,有線劇集台
 http://www.yuniptv.cn/gw/iptv3721/?tid=gt&xl=0&id=29
-
-經典台
+#EXTINF:-1,經典台
 http://www.yuniptv.cn/gw/iptv3721/?tid=gt&xl=0&id=30
-Star Movies
+#EXTINF:-1,Star Movies
 http://www.yuniptv.cn/gw/iptv3721/?tid=gt&xl=0&id=33
-三立都會台
+#EXTINF:-1,三立都會台
 http://www.yuniptv.cn/gw/iptv3721/?tid=gt&xl=0&id=35
-東森超視HD
+#EXTINF:-1,東森超視HD
 http://www.yuniptv.cn/gw/iptv3721/?tid=gt&xl=0&id=49
-東森綜合HD
+#EXTINF:-1,東森綜合HD
 http://www.yuniptv.cn/gw/iptv3721/?tid=gt&xl=0&id=50
-東森洋片HD
+#EXTINF:-1,東森洋片HD
 http://www.yuniptv.cn/gw/iptv3721/?tid=gt&xl=0&id=52
+#EXTINF:-1,中天綜合
+http://www.yuniptv.cn/gw/iptv3721/?tid=gt&xl=0&id=57
+#EXTINF:-1,中視
+http://www.yuniptv.cn/gw/iptv3721/?tid=gt&xl=0&id=59
+#EXTINF:-1,台視
+http://www.yuniptv.cn/gw/iptv3721/?tid=gt&xl=0&id=60
+#EXTINF:-1,華視
+http://www.yuniptv.cn/gw/iptv3721/?tid=gt&xl=0&id=63
+#EXTINF:-1,BBC Earth
+http://www.yuniptv.cn/gw/iptv3721/?tid=gt&xl=0&id=78
+#EXTINF:-1,Cinemax
+http://www.yuniptv.cn/gw/iptv3721/?tid=gt&xl=0&id=81
+#EXTINF:-1,National Geographic
+http://www.yuniptv.cn/gw/iptv3721/?tid=gt&xl=0&id=86
 
 #EXTINF:-1,有線體育2台
 http://www.yuniptv.cn/gw/iptv3721/?tid=gt&xl=0&id=27
